@@ -1,0 +1,47 @@
+{
+  "website":{
+    "title": "Javi Cepa"
+  },
+  "nav":{
+    "home": "Inicio",
+    "about_me": "Acerca de",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "career": "Carrera",
+    "blog": "Blog",
+    "link": "Links"
+  },
+  "about_me":{
+    "about_me": "Acerca de mí",
+    "des": "Un tío que crea cosas de videojuegos"
+  },
+  "skills":{
+    "my_skills": "Habilidades"
+  },
+  "projects":{
+    "my_projects": "Mis proyectos",
+    "pixelatto": "Mi estudio de creación de videojuegos, hecho de gente genial.",
+  },
+  "career":{
+    "my_career": "Mi carrera",
+    
+	"kitmaker_name": "Kitmaker",
+    "kitmaker_des": "Compañía de juegos F2P para dispositivos móviles",
+    "kitmaker_date": "Ene. 2016",
+    "kitmaker_job": "Lead Game Designer",
+	
+	"pixelatto_name": "Pixelatto",
+    "pixelatto_des": "Estudio de desarrollo especializado en Unity",
+    "pixelatto_date": "Mar. 2014",
+    "pixelatto_job": "CEO & Founder",
+	
+  },
+  "blog":{
+    "my_blog": "Mi Blog"
+  },
+  "link":{
+    "link": "Links",
+    "view": "ver"
+  }
+
+}

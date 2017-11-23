@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
+- last_name:
+  first_name: Pixelatto
   desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  website: https://www.pixelatto.com
+  email: javi@pixelatto.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: 
+  first_name: MálagaJam
+  desc: Founder
+  website: https://www.malagajam.com
+  email: javi@malagajam.com

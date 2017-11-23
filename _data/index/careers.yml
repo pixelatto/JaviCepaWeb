@@ -1,29 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
-    i18n: company_a
-  desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Kitmaker
+    i18n: kitmaker_name
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Estudio de juegos F2P para plataformas móviles
+    i18n: kitmaker_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Ene. 2016
+    i18n: kitmaker_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Lead Game Designer
+    i18n: kitmaker_job
+  icon: fa-square
+
+- name:
+    detail: Pixelatto
+    i18n: pixelatto_name
+  desc:
+    detail: Estudio de desarrollo especializado en Unity
+    i18n: pixelatto_desc
+  date:
+    detail: Mar. 2014
+    i18n: pixelatto_date
+  job:
+    detail: CEO & Founder
+    i18n: pixelatto_job
+  icon: fa-square
+
