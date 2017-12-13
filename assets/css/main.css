@@ -1459,7 +1459,7 @@ a.newer-posts:hover {
     border-style: solid;
 }
    
-.post-image {
+.wrap-content img {
 	display: block;
 	width: 100%;
     max-width: 700px;
