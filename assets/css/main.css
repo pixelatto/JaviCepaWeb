@@ -1452,6 +1452,16 @@ a.newer-posts:hover {
 /* Custom CSS code
    ========================================================================== */
 
+.post {
+    position: relative;
+}
+   
+.post-date {
+	font-size: 12px;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+}
    
 .page-cover-image {
 	border: 0;

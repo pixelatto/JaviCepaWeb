@@ -6,9 +6,9 @@ layout: main
 	<article class="post">  
 	  <a class="post-thumbnail" style="background-image: url(assets/img/{{ post.img }})" href="{{ post.url }}">
 		  <div class="post-content">
-			<h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 			<p>{{ post.description }}</p>
-			<span class="post-date">{{ post.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+			<span class="post-date">—&nbsp;{{ post.date | date: "%-d %B %Y"  }}</span>
 			<span class="post-words">{{ post.words }}</span>
 		  </div>
 	  </a>
