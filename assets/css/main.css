@@ -1452,6 +1452,20 @@ a.newer-posts:hover {
 /* Custom CSS code
    ========================================================================== */
 
+.cover-author-image {
+    border-radius: 15px !important;
+    background-color: #b1cad5 !important;
+}
+
+.about img:hover {
+    -webkit-transform: scale3d(1, 1, 1)  !important;
+    transform: scale3d(1, 1, 1) !important;
+}
+
+.about img {
+	border-radius: 14px !important;
+}
+   
 .post {
     position: relative;
 }
