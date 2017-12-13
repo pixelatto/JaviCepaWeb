@@ -1,29 +1,27 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
 <html lang="en">
+{% include head.html %}
+<body>
 
-    {% if page.title != 'index' %}
-        {% include head.html %}
-    {% else %}
-        {% include index_head.html %}
-    {% endif %}
-
-<body id="page-top" class="landing-page">
-
-    {% if page.title != 'index' %}
-        {% include blog_header.html %}
-    {% endif %}
-
+  <div class="wrapper">
     {{ content }}
-
-    {% if page.title != 'index' %}
-        {% include foot.html %}
-    {% else %}
-        {% include index_foot.html %}
-    {% endif %}
-
+	<div class="content-box clearfix">
+		{% for post in site.posts %}
+			<article class="post">  
+			  <a class="post-thumbnail" style="background-image: url(assets/img/{{ post.img }})" href="{{ post.url }}">
+				  <div class="post-content">
+					<h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+					<p>{{ post.description }}</p>
+					<span class="post-date">{{ post.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+					<span class="post-words">{{ post.words }}</span>
+				  </div>
+			  </a>
+			</article>
+		{% endfor %}
+	  </div>
+  </div>
+  
+  {% include analytics.html %}
 </body>
 </html>
+879x494
