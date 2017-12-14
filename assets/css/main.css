@@ -1260,7 +1260,7 @@ a.newer-posts:hover {
   background-color: #ecf0f1;
 }
 
-.page-footer .page-tag a {
+.page-tag a {
   text-decoration: none;
   font-size: 10px;
   padding: 5px 10px;
@@ -1270,7 +1270,7 @@ a.newer-posts:hover {
   border: 1px solid #263959;
 }
 
-.page-footer .page-tag a:hover {
+.page-tag a:hover {
   text-decoration: underline;
 }
 
@@ -1469,12 +1469,23 @@ a.newer-posts:hover {
 .post {
     position: relative;
 }
-   
+
+.post-content {
+    padding-bottom: 30px !important;
+}
+
 .post-date {
 	font-size: 12px;
     position: absolute;
     bottom: 12px;
     right: 12px;
+}
+
+.post-words {
+	font-size: 12px;
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
 }
    
 .page-cover-image {
