@@ -3,7 +3,7 @@ layout: post
 title: Stratosquare
 date: 2012-04-16
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/stratosquare.png
 tags: [tag1, tag2]
 ---
 

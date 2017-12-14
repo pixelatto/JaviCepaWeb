@@ -3,7 +3,7 @@ layout: post
 title: Mixee Labs
 date: 2016-09-02
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/mixeelabs.png
 tags: [tag1, tag2]
 ---
 

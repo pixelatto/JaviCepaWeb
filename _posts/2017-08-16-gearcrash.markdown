@@ -3,7 +3,7 @@ layout: post
 title: Gear Crash
 date: 2017-08-16
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/gearcrash.png
 tags: [tag1, tag2]
 ---
 

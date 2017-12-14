@@ -1260,6 +1260,7 @@ a.newer-posts:hover {
   background-color: #ecf0f1;
 }
 
+/*
 .page-tag a {
   text-decoration: none;
   font-size: 10px;
@@ -1274,7 +1275,10 @@ a.newer-posts:hover {
   text-decoration: underline;
 }
 
+*/
+
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
+/*
 .blog-tags {
   width: 100%;
   background-color: #ffffff;
@@ -1329,6 +1333,7 @@ a.newer-posts:hover {
   text-decoration: underline;
   opacity: .8;
 }
+*/
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
@@ -1474,20 +1479,6 @@ a.newer-posts:hover {
     padding-bottom: 30px !important;
 }
 
-.post-date {
-	font-size: 12px;
-    position: absolute;
-    bottom: 12px;
-    right: 12px;
-}
-
-.post-words {
-	font-size: 12px;
-    position: absolute;
-    bottom: 12px;
-    left: 12px;
-}
-   
 .page-cover-image {
 	border: 0;
     border-bottom: 5px #515151;
@@ -1539,4 +1530,48 @@ a.newer-posts:hover {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.page-tag {
+    text-align: right;
+    float: right;
+    position: absolute;
+    bottom: -1px;
+    right: 16px;
+}
+
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; 
+  padding: 0;
+}
+
+.tags li {
+  float: left; 
+}
+
+.tag {
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+  color: #999;
+  display: inline-block;
+  height: 20px;
+  line-height: 19px;
+  padding: 0px 14px;
+  position: relative;
+  font-size: 10px;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+  border-radius: 6px 6px 0px 0px;
+}
+
+
+.tag:hover {
+  background-color: #6a6b86;
+  color: white;
+}
+
+.tag:hover::after {
+   border-left-color: crimson; 
 }

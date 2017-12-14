@@ -3,7 +3,7 @@ layout: post
 title: Heavy Industries
 date: 2016-12-09
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/heavyindustries.png
 tags: [tag1, tag2]
 ---
 

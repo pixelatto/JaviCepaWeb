@@ -3,7 +3,7 @@ layout: post
 title: Negotiate or Die
 date: 2015-11-06
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/negotiateordie.png
 tags: [tag1, tag2]
 ---
 

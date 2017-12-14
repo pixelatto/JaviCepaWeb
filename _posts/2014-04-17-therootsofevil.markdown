@@ -3,7 +3,7 @@ layout: post
 title: The Roots of Evil
 date: 2014-04-17
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/therootsofevil.png
 tags: [tag1, tag2]
 ---
 

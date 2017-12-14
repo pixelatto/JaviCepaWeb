@@ -3,7 +3,7 @@ layout: post
 title: Pixelatto
 date: 2014-05-13
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/pixelatto.png
 tags: [tag1, tag2]
 ---
 

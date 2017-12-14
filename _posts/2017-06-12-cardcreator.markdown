@@ -5,7 +5,7 @@ date: 2017-06-12
 description: Después de un largo desarrollo, lanzamos nuestra aplicación para crear juegos de cartas
 img: assets/img/cover/cardcreator.png
 tags: [Postmortems, Proyectos]
-words: 2 minutos
+words: 2 minutos de lectura
 ---
 Ahora que [Card Creator](http://store.steampowered.com/app/523600/Card_Creator/) ya es mayor, es un buen momento para escribir un pequeño post-mortem.
 

@@ -3,7 +3,7 @@ layout: post
 title: Very Dungeon
 date: 2014-12-11
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/verydungeon.png
 tags: [tag1, tag2]
 ---
 

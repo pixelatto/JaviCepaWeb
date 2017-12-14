@@ -3,7 +3,7 @@ layout: post
 title: Lonk's Greedy Adventure
 date: 2017-12-08
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/lonkadventure.png
 tags: [tag1, tag2]
 ---
 

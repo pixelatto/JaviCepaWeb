@@ -3,7 +3,7 @@ layout: post
 title: Pïxl
 date: 2013-04-25
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/pixl.png
 tags: [tag1, tag2]
 ---
 
