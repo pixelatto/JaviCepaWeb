@@ -1509,6 +1509,19 @@ a.newer-posts:hover {
   margin-bottom: 40px;
 }
 
+
+.unity-container {
+  position: relative;
+  padding-bottom: 56.25%; /*16:9*/
+  height: 0; 
+  overflow: hidden;
+  border: 0px;
+  border-style: solid;
+  border-color: #b1b1b1;
+  border-radius: 16px;
+  box-shadow: 3px 4px 13px 0px #9a9a9a;
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
@@ -1522,6 +1535,9 @@ a.newer-posts:hover {
   margin-bottom: 40px;
 }
  
+.unity-container iframe,
+.unity-container object,
+.unity-container embed,
 .video-container iframe,
 .video-container object,
 .video-container embed {

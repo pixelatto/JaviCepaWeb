@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "LonkAdventure WEBGL.data.unityweb",
+"asmCodeUrl": "LonkAdventure WEBGL.asm.code.unityweb",
+"asmMemoryUrl": "LonkAdventure WEBGL.asm.memory.unityweb",
+"asmFrameworkUrl": "LonkAdventure WEBGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

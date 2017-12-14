@@ -27,17 +27,3 @@ analytics: # Google Analytics
 markdown: kramdown
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-
-months:
-    - Janvier
-    - Février
-    - Mars
-    - Avril
-    - Mai
-    - Juin
-    - Juillet
-    - Aout
-    - Septembre
-    - Octobre
-    - Novembre
-    - Décembre
