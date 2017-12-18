@@ -1,17 +1,32 @@
 ---
 layout: main
 ---
+{% if page.status=="published" %}
 <article class="article-page">
   <div class="page-content">
-    {% if page.embed %}
-	<div class="unity-container">
-		<iframe frameborder="0" src="{{ page.embed | relative_url }}" allowfullscreen=""></iframe>
+	<div class="game">
+	  {% if page.img %}
+		<img class="header-image" src="{{ page.img | relative_url }}">
+			<img class="play-button" src="{{ "assets/img/play.png" | relative_url }}">
+			</img>
+		</img>
+	  {% endif %}
 	</div>
-	{% else if page.img %}
-    <div class="page-cover-image">
-	  <img class="page-image" src="{{ page.img | relative_url }}" alt="{{page.title}}">
-    </div> <!-- End Page Cover Image -->
-    {% else %}
+	{% if page.embed %}
+	<div class="embedgame"></div>
+	<script>
+		$('.playbutton,img').click(function(){
+		var gameVar = '<div class="unity-container"><iframe src="{{ page.embed | relative_url }}"></iframe></div>';
+		$('.game').hide();
+		$('.embedgame').html(gameVar);
+		$('.close').show();
+		});
+		$('.close').click(function(){
+		$('.game').show();
+		$('.embedgame').empty();
+		$('.close').hide();
+		});
+	</script>
     {% endif %}
     <div class="wrap-content">
       <header class="header-page">
@@ -22,7 +37,6 @@ layout: main
 		{% assign month = months[m] %}
 		{% assign year = page.date | date: "%Y" %}
 		<span class="page-date">{{ day }} de {{ month }}, {{ year }}</span>
-		</div>
       </header>
       {{page.content | markdownify}}
       <div class="page-footer">
@@ -41,3 +55,4 @@ layout: main
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
+{% endif %}

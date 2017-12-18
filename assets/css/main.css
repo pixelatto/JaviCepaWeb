@@ -1493,8 +1493,36 @@ html {
     border-bottom: 5px #515151;
     border-style: solid;
 }
-   
-.page-content img {
+
+.image-caption {
+  color: #999;
+  margin: auto;
+  margin-left: 0%;
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 40px;
+}
+
+.game {
+	cursor: pointer;
+}
+
+.unity-container {
+  position: relative;
+  padding-bottom: 56.25%; /*16:9*/
+  height: 0; 
+  overflow: hidden;
+  border: 0px;
+  border-style: solid;
+  border-color: #b1b1b1;
+  border-radius: 16px;
+  box-shadow: 3px 4px 13px 0px #9a9a9a;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.header-image,
+.wrap-content img {
 	display: block;
 	width: 100%;
     max-width: 700px;
@@ -1509,26 +1537,16 @@ html {
     padding: 5px;
 }
 
-.image-caption {
-  color: #999;
-  margin: auto;
-  margin-left: 0%;
-  text-align: center;
-  font-style: italic;
-  margin-bottom: 40px;
+.game {
+	position: relative;
 }
 
-
-.unity-container {
-  position: relative;
-  padding-bottom: 56.25%; /*16:9*/
-  height: 0; 
-  overflow: hidden;
-  border: 0px;
-  border-style: solid;
-  border-color: #b1b1b1;
-  border-radius: 16px;
-  box-shadow: 3px 4px 13px 0px #9a9a9a;
+.play-button {
+	position: absolute;
+    width: 128px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
 
 .video-container {

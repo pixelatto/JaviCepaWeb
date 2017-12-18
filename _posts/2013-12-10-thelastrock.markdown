@@ -4,7 +4,7 @@ title: The Last Rock
 date: 2013-12-10
 description: 
 img: assets/img/cover/thelastrock.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

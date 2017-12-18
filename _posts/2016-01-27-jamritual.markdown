@@ -4,7 +4,7 @@ title: Jam Ritual
 date: 2016-01-27
 description: 
 img: assets/img/cover/jamritual.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

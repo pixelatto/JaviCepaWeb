@@ -4,7 +4,7 @@ title: Tiny Turns
 date: 2015-09-23
 description: 
 img: assets/img/cover/tinyturns.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: AutoTileGen
 date: 2014-07-09
 description: 
 img: assets/img/cover/autotilegen.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: Lápiz
 date: 2015-09-21
 description: 
 img: assets/img/cover/lapiz.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

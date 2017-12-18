@@ -4,7 +4,7 @@ title: Get Rich
 date: 2015-04-22
 description: 
 img: assets/img/cover/getrich.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

@@ -4,7 +4,7 @@ title: IE WowRoom
 date: 2016-09-01
 description: 
 img: assets/img/cover/wowroom.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

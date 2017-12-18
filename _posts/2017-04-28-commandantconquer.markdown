@@ -4,7 +4,7 @@ title: Command Ant Conquer
 date: 2017-04-28
 description: 
 img: assets/img/cover/commandantconquer.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 

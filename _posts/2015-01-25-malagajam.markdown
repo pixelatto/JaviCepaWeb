@@ -4,7 +4,7 @@ title: MálagaJam
 date: 2015-01-25
 description: 
 img: assets/img/cover/malagajam.png
-tags: [tag1, tag2]
+tags: []
 ---
 
 
