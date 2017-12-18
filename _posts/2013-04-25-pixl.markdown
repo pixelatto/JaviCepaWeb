@@ -1,12 +1,11 @@
 ﻿---
 layout: post
-title: Pïxl
+title: Piiiiixl
 date: 2013-04-25
 description: 
 img: assets/img/cover/pixl.png
 tags: [tag1, tag2]
 ---
-
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})

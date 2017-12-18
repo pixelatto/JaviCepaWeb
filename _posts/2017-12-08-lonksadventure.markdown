@@ -12,7 +12,7 @@ embed: assets/embed/lonksadventure/index.html
 Vuelvo a la carga otra vez en modo compo. Esta vez el tema es algo así como "cuanto más tienes, peor". Por alguna razón nunca salen los temas que me gustan, pero hay que trabajar con lo que hay.
 
 <blockquote>
-Las compos son individuales y en 48 horas en lugar de 72. La carrga de trabajo es brutal, pero puedes dejar un poducto muy redondo y bien cerrado si te organizas.
+Las compos son individuales y en 48 horas en lugar de 72. La carga de trabajo es brutal, pero puedes dejar un producto muy redondo y bien cerrado si te organizas.
 </blockquote>
 
 La primera idea que me vino a la cabeza fue una especie de ajedrez en el que a medida que ibas perdiendo piezas el tablero se inclinaba y ganabas alguna ventaja táctica.
@@ -23,12 +23,12 @@ La idea no era mala, pero rápidamente me pareció que iba a haber muchos juegos
 Es la primera jam en la que no me pongo una alarma para ver el tema a las 3 de la madrugada, empiezo a tomarme estas cosas con más calma.
 </blockquote>
 
-Después de darle vueltas se me ocurrió algo más interesante: de lo ridículo de la sobrecarga de objetos en algunos juegos se podría hacer un juego-parodia. Juegos como Tomb Raider o alguno de los Zeldas te permiten llevar montones de armas y accesorios sin que tu movimiento se vea penalizado lo más mínimo ¿Y si hicieramos algo más realista?
+Después de darle vueltas se me ocurrió algo más interesante: de lo ridículo de la sobrecarga de objetos en algunos juegos se podría hacer un juego-parodia. Juegos como Tomb Raider o alguno de los Zeldas te permiten llevar montones de armas y accesorios sin que tu movimiento se vea penalizado lo más mínimo ¿Y si hiciéramos algo más realista?
 
 ![]({{ "/assets/img/content/realisticzelda.png" | absolute_url }})
 <p class="image-caption">No soy el primero al que se le ocurre la idea (<a href="http://www.dorkly.com/post/1823/realistic-zelda-inventory">fuente</a>)</p>
 
-Como siempre, empecé programando el movimiento del personaje. El concepto del peso era clave, así que lavista lateral era casi obligada. Los plataformas 2D los tengo bastante machacados pero es que son taaan bonitos de hacer...
+Como siempre, empecé programando el movimiento del personaje. El concepto del peso era clave, así que la vista lateral era casi obligada. Los plataformas 2D los tengo bastante machacados pero es que son taaan bonitos de hacer...
 
 Para los gráficos opté por pixel art a 8x8. Cualquier cosa más compleja que eso me obligaría a quitar contenido. Incluso empecé creando el nivel con la idea de usar bloques de colores planos sin más.
 
@@ -36,7 +36,7 @@ A media tarde ya estaba contento con el movimiento y las colisiones del personaj
 
 <blockquote>Ese mismo día por la noche hice la portada y la pequeña escena del cañón que servía para conectar el trasfondo de la portada con el gameplay y darle contexto al juego.</blockquote>
 
-El segundo día fue casi por completo más level design y el código del resto de objetos. Quería que el nivel fuese casí-lineal, con una secuencia de habitaciones más o menos establecida, pero con distintos caminos en función de qué objetos se decidían coger o dejar.
+El segundo día fue casi por completo más level design y el código del resto de objetos. Quería que el nivel fuese cuasi-lineal, con una secuencia de habitaciones más o menos establecida, pero con distintos caminos en función de qué objetos se decidían coger o dejar.
 
 ![]({{ "/assets/img/content/lonkleveldesign.png" | absolute_url }})
 <p class="image-caption">Mucho level design. El tamaño de la cueva de la espada puede dar una idea de la escala de todo esto.</p>
@@ -52,8 +52,8 @@ Terminé todo el código y arte y me quedaban 5 horas para dedicarlas a sonido (
 La experiencia tal cual la pensé sería:
 
 * Primera partida: el jugador coge todos los items hasta que llega al puente y coge el yunque. Muere irremediablemente.
-* Segunda partida: el jugado repite cogiendolo todo menos el yunque. Muere aplastado por todo su equipo en la siguiente sala. Si después de estos dos finales todavía no ha captado la indirecta, lo damos por caso perdido.
-* Tercera partida: el jugador intenta llegar al final sin coger ningún item. Muere al escapar con la princesa al no tener items con los que defenderse. Así se le enseña que puede haber soluciones intermedias.
+* Segunda partida: el jugado repite cogiéndolo todo menos el yunque. Muere aplastado por todo su equipo en la siguiente sala. Si después de estos dos finales todavía no ha captado la indirecta, lo damos por caso perdido.
+* Tercera partida: el jugador intenta llegar al final sin coger ningún ítem. Muere al escapar con la princesa al no tener ítems con los que defenderse. Así se le enseña que puede haber soluciones intermedias.
 
 ![]({{ "/assets/img/content/lonkanvil.png" | absolute_url }})
 <p class="image-caption">Es difícil que el jugador se quede después de esta experiencia traumática, pero la mayoría lo hacen movidos por la curiosidad del "qué hubiera pasado si..."</p>
