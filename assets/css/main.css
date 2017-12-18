@@ -1457,6 +1457,10 @@ a.newer-posts:hover {
 /* Custom CSS code
    ========================================================================== */
 
+html {
+	background: white;
+}
+   
 .cover-author-image {
     border-radius: 15px !important;
     background-color: #b1cad5 !important;
@@ -1465,6 +1469,11 @@ a.newer-posts:hover {
 .about img:hover {
     -webkit-transform: scale3d(1, 1, 1)  !important;
     transform: scale3d(1, 1, 1) !important;
+}
+
+.content-box
+{
+	background: white;
 }
 
 .about img {
@@ -1498,7 +1507,7 @@ a.newer-posts:hover {
     border-radius: 16px;
     box-shadow: 3px 4px 13px 0px #9a9a9a;
     padding: 5px;
-} 
+}
 
 .image-caption {
   color: #999;

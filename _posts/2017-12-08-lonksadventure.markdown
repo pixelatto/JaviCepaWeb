@@ -4,9 +4,10 @@ title: Lonk's Greedy Adventure
 date: 2017-12-08
 description: Un homenaje a Zelda para la Ludum Dare 40
 img: assets/img/cover/lonkadventure.png
-tags: [Compos, Postmortems]
-words: 4 minutos de lectura
+tags: [LudumDare, Postmortems, Juegos]
+words: 4 minutos
 embed: assets/embed/lonksadventure/index.html
+status: published
 ---
 
 Vuelvo a la carga otra vez en modo compo. Esta vez el tema es algo así como "cuanto más tienes, peor". Por alguna razón nunca salen los temas que me gustan, pero hay que trabajar con lo que hay.
