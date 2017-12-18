@@ -90,8 +90,7 @@ Vamos con las valoraciones como es menester...
 * Diseño: folio doblado a la mitad y lápiz
 * Código: Unity + Visual Studio
 * Gráficos: Aseprite
-* Sonido: BFXR
-* Música: Mixcraft
+* Sonido: BFXR + Mixcraft
 
 <h3>Lo puntuado:</h3>
 Próximamente...
