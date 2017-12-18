@@ -1,8 +1,7 @@
-title: Javi Cepa
+title: JaviCepa.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Otro indie más dedicado a escribir cosas que sólo va a leer él
+  
 permalink: ':title/'
 # baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Javi Cepa # add your name
 author-img: javicepa.png # add your photo
-about-author: Creo juegos a cambio de comida # add description
+about-author: Hago juegos a cambio de comida
 twitter: JaviCepa # add your Twitter handle
 linkedin: javiercepa # add your Linkedin handle
 email: javi@pixelatto.com # add your Email address
