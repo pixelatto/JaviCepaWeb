@@ -1485,7 +1485,7 @@ a.newer-posts:hover {
     border-style: solid;
 }
    
-.wrap-content img {
+.page-content img {
 	display: block;
 	width: 100%;
     max-width: 700px;
