@@ -1,26 +1,70 @@
 ﻿---
 layout: post
-title: Piiiiixl
+title: Pïxl
 date: 2013-04-25
 description: 
 img: assets/img/cover/pixl.png
+embed: assets/embed/pixl/index.html
 tags: []
+status: published
 ---
 
-<!-- Sample image embed
-![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
-<p class="image-caption">Image caption</p>
--->
+Este fue mi primer juego para una Ludum Dare (la #26) y quizá el primero que hice en Unity.
 
-<!-- Sample blockquote
-<blockquote>
-Del juego de cartas me olvidé poco después de empezar la aplicación.
-</blockquote>
--->
+Ya había oído hablar de las compos/jams hace tiempo en Twitter y tenía el gusanillo de probar suerte en alguna.
 
-<!-- Sample responsive video embed
+En aquel momento solía trabajar con C#+XNA, pero tenía claro que no iba a ser lo suficientemente ágil para una Jam. Como ya le había dado un tiento a Unity para algún prototipo, me pareció un buen momento para ponerlo a prueba.
+
+El tema en esta ocasión era "Minimalismo". Como el estreno en Unity era un hándicap importante, decidí irme a un diseño muy básico: un infinirunner.
+
+Tampoco quería caer en hacer "otro infinirunner más", así que le añadí un par de ingredientes: 5 calles y perspectiva isométrica.
+
+Estas calles serían idealmente "como de chicle", curvandose suavemente hacia arriba/abajo y entrando o saliendo de juego en distintos momentos.
+
+A la hora de ejecutar me encontré que no tenía tanta soltura como para hacer eso, así que hice un camino mediante instanciación de bloques.
+
+<blockquote>Los personajes iban a ser cilindros en un principio, pero probé con cuadrados y daban un movimiento mucho más divertido e interesante</blockquote>
+
+![]({{ "/assets/img/content/pixl.png" | absolute_url }})
+<p class="image-caption">Añadí los textos de fondo con tonterías por meter algo puntuable en la categoría humor y recompensar el progreso</p>
+
+La perspectiva isométrica trajo un problema importante, era muy difícil saber que carril estaba al lado del actual. Añadí una guía visual en el marcador como referencia, aunque era más un parche que una solución real y nadie se fijaba.
+
+Otro problema importante era la falta de un objetivo claro. El juego consistía en ver quién llega más lejos y establece un nuevo récord, pero al ser la generación procedural se acercaba mucho a un juego de puro azar. Esto resultaba en que la gente se cansase al poco de empezar.
+
 <div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/nY4SEY_VBN8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
--->
+<p class="image-caption">Timelapse del proceso completo de desarrollo</p>
+
+## Valoraciones de esta compo
+
+### Lo bueno:
+* ¡Mi primera compo!
+* ‎Terminé el juego.
+* ‎Me lo pasé genial y estaba convencido de que iba a repetir.
+
+### Lo malo:
+* No dormí entre el sábado y el domingo. Aprendí por qué decían en la página que no es una buena idea.
+* ‎No tenía suficiente soltura con Unity.
+* ‎No me dió tiempo a hacer música, sólo algunos sonidos. Por suerte la estética minimalista acompañaba bastante y el juego no sufrió tanto como hubiera podido en otro caso.
+
+### Lo usado:
+* Diseño: nada, improvisando sobre la marcha.
+* Programación: Unity+MonoDevelop ‎
+
+### Lo puntuado:
+<table>
+<tr><th></th><th class="cell-center">Puntuación</th><th class="cell-center">Puesto</th></tr>
+<tr><td>Graphics	</td><td class="cell-center score">4.17</td><td class="cell-center rank">#42 </td></tr>
+<tr><td>Overall		</td><td class="cell-center score">3.81</td><td class="cell-center rank">#90 </td></tr>
+<tr><td>Fun			</td><td class="cell-center score">3.59</td><td class="cell-center rank">#124</td></tr>
+<tr><td>Mood		</td><td class="cell-center score">3.43</td><td class="cell-center rank">#173</td></tr>
+<tr><td>Humor		</td><td class="cell-center score">2.69</td><td class="cell-center rank">#277</td></tr>
+<tr><td>Theme		</td><td class="cell-center score">3.83</td><td class="cell-center rank">#288</td></tr>
+<tr><td>Innovation	</td><td class="cell-center score">3.42</td><td class="cell-center rank">#326</td></tr>
+<tr><td>Audio		</td><td class="cell-center score">2.56</td><td class="cell-center rank">#635</td></tr>
+</table>
+La paleta de color gustó mucho y tuvo una muy buena puntuación en gráficos. Me sorprendió mucho que llamara tanto la atención.
+
+¡Y entrar en el top 100 de "Overall" en mi primera compo fue un subidón!

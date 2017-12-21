@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PixlWeb.data.unityweb",
+"asmCodeUrl": "PixlWeb.asm.code.unityweb",
+"asmMemoryUrl": "PixlWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "PixlWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

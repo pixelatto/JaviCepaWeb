@@ -6,6 +6,8 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+
+ 
 html {
   line-height: 1.15;
   /* 1 */
@@ -811,6 +813,7 @@ pre code {
   padding-left: 0;
 }
 
+/*
 table {
   border: 1px solid #aaa;
   background-color: #eee;
@@ -867,6 +870,7 @@ table tfoot {
 table tfoot td {
   font-size: 14px;
 }
+*/
 
 .wrapper {
   max-width: 1250px;
@@ -1460,7 +1464,11 @@ a.newer-posts:hover {
 html {
 	background: white;
 }
-   
+
+.sidebar {	
+    box-shadow: #c3c3c3 3px -1px 20px 0px;
+}
+
 .cover-author-image {
     border-radius: 15px !important;
     background-color: #b1cad5 !important;
@@ -1617,4 +1625,40 @@ html {
 
 .tag:hover::after {
    border-left-color: crimson; 
+}
+
+table {
+	width: 100%;
+	text-align: left;
+    border-collapse: collapse;
+    border: #b8c5c3 1px solid;
+	padding: 20px;
+    width: 80%;
+	margin: auto;
+}
+
+table tr {
+	border-bottom: 1px solid #b8c5c3 !important;
+	line-height: 26px;
+	padding: 8px;
+}
+
+table th {
+	color: white;
+	background: #b8c5c3;
+	padding: 8px;
+    width: 100%;
+	text-transform: uppercase;
+}
+
+table td {
+	padding: 5px 10px;
+}
+
+.cell-center {
+	text-align: center;
+}
+
+.score::first-letter { 
+    font-size: 150%;
 }
