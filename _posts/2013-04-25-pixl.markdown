@@ -9,6 +9,8 @@ tags: []
 status: published
 ---
 
+La versión que encabeza este post es post-compo, para jugar la original pulsa [aquí](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19200).
+
 Este fue mi primer juego para una Ludum Dare (la #26) y quizá el primero que hice en Unity.
 
 Ya había oído hablar de las compos/jams hace tiempo en Twitter y tenía el gusanillo de probar suerte en alguna.
