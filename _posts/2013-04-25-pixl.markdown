@@ -9,21 +9,15 @@ tags: []
 status: published
 ---
 
-La versión que encabeza este post es post-compo, para jugar la original pulsa [aquí](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19200).
+Este fue mi primer juego para una Ludum Dare (la #26) y quizá el primero que hice en Unity. Ya había oído hablar de las compos/jams hace tiempo en Twitter y tenía el gusanillo de probar suerte en alguna.
 
-Este fue mi primer juego para una Ludum Dare (la #26) y quizá el primero que hice en Unity.
-
-Ya había oído hablar de las compos/jams hace tiempo en Twitter y tenía el gusanillo de probar suerte en alguna.
+<blockquote>La versión que encabeza este artículo es post-compo. Puedes jugar la original pulsa <a href="http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19200">aquí</a>.</blockquote>
 
 En aquel momento solía trabajar con C#+XNA, pero tenía claro que no iba a ser lo suficientemente ágil para una Jam. Como ya le había dado un tiento a Unity para algún prototipo, me pareció un buen momento para ponerlo a prueba.
 
-El tema en esta ocasión era "Minimalismo". Como el estreno en Unity era un hándicap importante, decidí irme a un diseño muy básico: un infinirunner.
+El tema en esta ocasión era "Minimalismo". Como el estreno en Unity era un hándicap importante, decidí irme a un diseño muy básico: un infinirunner. Tampoco quería caer en hacer "otro infinirunner más", así que le añadí un par de ingredientes: 5 calles y perspectiva isométrica.
 
-Tampoco quería caer en hacer "otro infinirunner más", así que le añadí un par de ingredientes: 5 calles y perspectiva isométrica.
-
-Estas calles serían idealmente "como de chicle", curvandose suavemente hacia arriba/abajo y entrando o saliendo de juego en distintos momentos.
-
-A la hora de ejecutar me encontré que no tenía tanta soltura como para hacer eso, así que hice un camino mediante instanciación de bloques.
+Las calles serían idealmente "como de chicle", curvandose suavemente hacia arriba/abajo y entrando o saliendo de juego en distintos momentos. A la hora de ejecutar me encontré que no tenía tanta soltura como para hacer eso, así que lo atajé haciendo un camino mediante instanciación de bloques.
 
 <blockquote>Los personajes iban a ser cilindros en un principio, pero probé con cuadrados y daban un movimiento mucho más divertido e interesante</blockquote>
 
@@ -54,6 +48,8 @@ Otro problema importante era la falta de un objetivo claro. El juego consistía 
 ### Lo usado:
 * Diseño: nada, improvisando sobre la marcha.
 * Programación: Unity+MonoDevelop ‎
+* Gráficos: los cubos que trae Unity, hábilmente escalados
+* Sonido: BFXR, sin música
 
 ### Lo puntuado:
 <table>

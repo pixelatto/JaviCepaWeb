@@ -89,7 +89,7 @@ Ahora mismo tengo el proyecto en andamios con algunas mejoras interesantes, como
 
 <h3>Lo usado:</h3>
 * Diseño: folio doblado a la mitad y lápiz
-* Código: Unity + Visual Studio
+* Programación: Unity + Visual Studio
 * Gráficos: Aseprite
 * Sonido: BFXR + Mixcraft
 
