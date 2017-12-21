@@ -2,11 +2,11 @@
 layout: post
 title: Lonk's Greedy Adventure
 date: 2017-12-18
-description: Un homenaje a Zelda para la Ludum Dare 40
+description: Algunas decisiones son una carga para toda la vida
 img: assets/img/cover/lonkadventure.png
-tags: [LudumDare, Postmortems, Juegos]
-words: 4 minutos
 embed: assets/embed/lonksadventure/index.html
+tags: [LudumDare]
+words: 4 minutos
 status: published
 ---
 

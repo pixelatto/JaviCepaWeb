@@ -7,8 +7,9 @@ layout: main
 	<div class="game">
 	  {% if page.img %}
 		<img class="header-image" src="{{ page.img | relative_url }}">
+			{% if page.embed %}
 			<img class="play-button" src="{{ "assets/img/play.png" | relative_url }}">
-			</img>
+			{% endif %}
 		</img>
 	  {% endif %}
 	</div>

@@ -2,10 +2,11 @@
 layout: post
 title: Pïxl
 date: 2013-04-25
-description: 
+description: Es difícil rodar cuando eres un cuadrado
 img: assets/img/cover/pixl.png
 embed: assets/embed/pixl/index.html
-tags: []
+tags: [LudumDare]
+words: 2 minutos
 status: published
 ---
 
