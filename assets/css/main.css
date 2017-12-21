@@ -1490,6 +1490,11 @@ html {
    
 .post {
     position: relative;
+    border: 1px solid #e6e6e6;
+}
+
+a.post-thumbnail {
+    box-shadow: inset 0px 0px 20px #515151;
 }
 
 .post-content {
