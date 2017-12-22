@@ -4,7 +4,7 @@ layout: main
 {% if page.status=="published" %}
 <article class="article-page">
   <div class="page-content">
-	<div class="game">
+	<div class="game" {% if page.embed %} style="cursor: pointer;" {% endif %}>
 	  {% if page.img %}
 		<img class="header-image" src="{{ page.img | relative_url }}">
 			{% if page.embed %}
@@ -13,8 +13,8 @@ layout: main
 		</img>
 	  {% endif %}
 	</div>
-	{% if page.embed %}
 	<div class="embedgame"></div>
+	{% if page.embed %}
 	<script>
 		$('.playbutton,img').click(function(){
 		var gameVar = '<div class="unity-container"><iframe src="{{ page.embed | relative_url }}"></iframe></div>';

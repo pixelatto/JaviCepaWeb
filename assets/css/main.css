@@ -1520,10 +1520,6 @@ a.post-thumbnail {
   margin-bottom: 40px;
 }
 
-.game {
-	cursor: pointer;
-}
-
 .unity-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
