@@ -1121,8 +1121,8 @@ footer .copyright {
   -webkit-transform: translate(0px, -2px);
       -ms-transform: translate(0px, -2px);
           transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  -webkit-box-shadow: 0px 20px 20px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0px 20px 20px -10px rgba(10, 16, 34, 0.2);
 }
 
 .post .post-thumbnail {
@@ -1466,7 +1466,7 @@ html {
 }
 
 .sidebar {	
-    box-shadow: #c3c3c3 3px -1px 20px 0px;
+    box-shadow: #c3c3c34f 3px -1px 20px 0px;
 }
 
 .cover-author-image {
