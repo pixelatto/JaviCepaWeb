@@ -1465,6 +1465,10 @@ html {
 	background: white;
 }
 
+body {
+  background-color: #fff !important;
+}
+
 .sidebar {	
     box-shadow: #c3c3c34f 3px -1px 20px 0px;
 }
