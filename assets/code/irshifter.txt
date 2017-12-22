@@ -13,9 +13,8 @@
 
 #define STATE_LED D4
 
-char auth[] = "cc16ef301204400e86225565cd6f986e";
-char ssid[] = "Espe y Javi"; 
-char pass[] = "chocolate"; 
+char ssid[] = "?????????"; 
+char pass[] = "?????????"; 
 char host[] = "ESP-OTA";
 
 IRrecv irrecv(IR_RECEIVER);
