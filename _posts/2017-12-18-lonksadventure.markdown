@@ -2,7 +2,7 @@
 layout: post
 title: Lonk's Greedy Adventure
 date: 2017-12-18
-description: Algunas decisiones son una carga para toda la vida
+description: Un juego sobre decisiones de peso
 img: assets/img/cover/lonkadventure.png
 embed: assets/embed/lonksadventure/index.html
 tags: [LudumDare]
