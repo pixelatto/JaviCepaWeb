@@ -93,5 +93,21 @@ Ahora mismo tengo el proyecto en andamios con algunas mejoras interesantes, como
 * Gráficos: Aseprite
 * Sonido: BFXR + Mixcraft
 
-<h3>Lo puntuado:</h3>
-Próximamente...
+### Lo puntuado:
+<table>
+<tr><th></th><th class="cell-center">Puntuación</th><th class="cell-center">Puesto</th></tr>
+<tr><td>Overall		</td><td class="cell-center score">4.288</td><td class="cell-center rank">#3</td></tr>
+<tr><td>Fun			</td><td class="cell-center score">4.192</td><td class="cell-center rank">#12</td></tr>
+<tr><td>Innovation	</td><td class="cell-center score">3.860</td><td class="cell-center rank">#60</td></tr>
+<tr><td>Theme		</td><td class="cell-center score">4.063</td><td class="cell-center rank">#84</td></tr>
+<tr><td>Graphics	</td><td class="cell-center score">3.852</td><td class="cell-center rank">#136</td></tr>
+<tr><td>Audio		</td><td class="cell-center score">3.760</td><td class="cell-center rank">#65</td></tr>
+<tr><td>Humor		</td><td class="cell-center score">4.125</td><td class="cell-center rank">#17</td></tr>
+<tr><td>Mood		</td><td class="cell-center score">4.260</td><td class="cell-center rank">#9</td></tr>
+</table>
+
+¡Me quedé en shock cuando vi que había quedado en el puesto número 3! Tanto es así que hasta que revisité la página para escribir este post no reparé en que hice muy buena puntuación en otras muchas áreas.
+
+Como observación extra: la peor de las puntuaciones es en gráficos, y es algo que me encanta que haya resultado así, porque demuestra que hacer juegos que no entren por los ojos y se valoren ES posible.
+
+No es por presumir (sí lo es) pero creo que he batido record ludumdariense en España ^_^
