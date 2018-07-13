@@ -1,7 +1,18 @@
+---
+layout: post
+title: Los estadíos del gamedev
+date: 2018-07-13
+description: Estadíos en el desarrollo de un gamedev
+img: assets/img/cover/irshifter.jpg
+tags: [Arduino]
+words: 2 minutos
+status: published
+---
+
 
 - Acabo de descubrir que hay un programa que se llama Unity que es con lo que hacen videojuegos.
 
-- ¡Hacer videojuegos es facilísimo! Voy a hacer una versión de Assassins Creed que se me ocurrió una vez en el que además de todo lo que tienes puedes viajar en el tiempo. Y con multiplayer online masivo, que puedas echar peleas con los amigos.
+- ¡Hacer videojuegos es facilísimo! Voy a hacer una versión de Assassins Creed que se me ocurrió una vez en el que además puedes viajar en el tiempo. Y con multiplayer online, para que puedas echar peleas con los amigos.
 
 - Vale, llevo unas semanas trabajando y lo de los gráficos no lo controlo mucho. El código lo puedo hacer yo todo, pero necesito un artista que modele para mi juego.
 
@@ -44,3 +55,5 @@
 - He puesto el asset a la venta y está dando algunos eurillos. No es gran cosa, pero tampoco me cuesta nada tenerlo ahí.
 
 - Hemos lanzado el juego en el estudio y ha sido un fracaso. 20000 descargas y menos de 200€ de facturación. 
+
+[Tobecontinued]
