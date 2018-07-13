@@ -70,24 +70,24 @@ Ahora mismo tengo el proyecto en andamios con algunas mejoras interesantes, como
 
 ## Valoraciones de esta compo
 
-<h3>Lo bueno:</h3>
+### Lo bueno:
 * Buena organización y 200% de productividad
 * Mucho testeo. El diseño de niveles era bastante complejo y no se hubiera aguantado si no lo hubiera probado constantemente.
 * 4 temas musicales ¡Más música que nunca!
 * 6 finales distintos y 10 objetos, record de contenido
 * Descansos y comidas bien respetados
 
-<h3>Lo malo:</h3>
+### Lo malo:
 * Tras la "submission hour" ya notaba los primeros síntomas de un constipado incipiente ¿Causado por la Ludum quizá?
 * Estuve dudando mucho entre qué programas usar para crear la música, debería haber hecho prospección antes de la compo.
 * Me da un poco de rabia perder tanto tiempo programando las colisiones básicas siempre que hago un plataformas. Es un poco reinventar la rueda...
 
-<h3>Lo nuevo:</h3>
+### Lo nuevo:
 * Nunca había hecho un ejercicio de level design tan intenso en tan poco tiempo. Estoy muy contento con cómo quedó.
 * Las cámaras por sala son un recurso súper interesante, disfruté mucho jugando con ellas.
 * Los finales alternativos dan un incentivo muy fuerte a seguir jugando. Tengo intención de revisitar este proyecto y hacer más finales.
 
-<h3>Lo usado:</h3>
+### Lo usado:
 * Diseño: folio doblado a la mitad y lápiz
 * Programación: Unity + Visual Studio
 * Gráficos: Aseprite
@@ -109,5 +109,3 @@ Ahora mismo tengo el proyecto en andamios con algunas mejoras interesantes, como
 ¡Me quedé en shock cuando vi que había quedado en el puesto número 3! Tanto es así que hasta que revisité la página para escribir este post no reparé en que hice muy buena puntuación en otras muchas áreas.
 
 Como observación extra: la peor de las puntuaciones es en gráficos, y es algo que me encanta que haya resultado así, porque demuestra que hacer juegos que no entren por los ojos y se valoren ES posible.
-
-No es por presumir (sí lo es) pero creo que he batido record ludumdariense en España ^_^
