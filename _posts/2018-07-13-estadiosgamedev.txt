@@ -6,7 +6,6 @@ description: Estadíos en el desarrollo de un gamedev
 img: assets/img/cover/irshifter.jpg
 tags: [Arduino]
 words: 2 minutos
-status: published
 ---
 
 
