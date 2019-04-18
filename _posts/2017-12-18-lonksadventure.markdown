@@ -68,6 +68,8 @@ Ahora mismo tengo el proyecto en andamios con algunas mejoras interesantes, como
 ![]({{ "/assets/img/content/lonkcannons.png" | absolute_url }})
 <p class="image-caption">¿3 cañones diferentes? ¡Eso sí que es un atajo!</p>
 
+EDIT: a día de hoy es un juego completo, con 100 finales distintos y toneladas de contenido.
+
 ## Valoraciones de esta compo
 
 ### Lo bueno:

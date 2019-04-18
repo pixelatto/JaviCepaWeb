@@ -4,7 +4,7 @@ title: Card Creator
 date: 2017-06-12
 description: Post-mortem del editor de cartas
 img: assets/img/cover/cardcreator.png
-tags: [Postmortems, Proyectos]
+tags: [Postmortems]
 words: 2 minutos
 status: published
 ---

@@ -13,7 +13,7 @@ Una tradición que nos traemos entre los socios de Turbocorp TM es la de crear u
 
 Durante la MalagaJam Weekend 8, nos sacamos de la manga este "Shut Up & Take My Money", un simulador de rondas de inversión en el que tú eres el inversor. Bueno tú... y hasta ¿50? jugadores más, ya que es un multijugador local "masivo" de esos que tanto nos gustan (usando [HappyFunTimes](http://docs.happyfuntimes.net/)).
 
-<blockquote>Para el que no se haya dado cuenta, el 99% de los juego que hacemos como Turbocorp tratan de CEOs, diinero y yates, elementos habituales en la vida cotidiana del desarrollador indie medio.</blockquote>
+<blockquote>Para el que no se haya dado cuenta, el 99% de los juego que hacemos como Turbocorp tratan de CEOs, dinero y yates, elementos habituales en la vida cotidiana del desarrollador indie medio.</blockquote>
 
 La dinámica es la siguiente: en cada ronda aparecen 2 emprendedores (generados proceduralmente) presentando sus empresas (con nombres generados proceduralmente). Cada uno de ellos expone su pitch (generado proceduralmente) que puede ser leído en pantalla o escuchado de sus cómicas voces (también generadas proceduralmente). Cada jugador puede elegir cuanto de su dinero apuesta por uno de los dos. Al final de cada ronda, el emprendedor que más dinero total reciba, es el ganador. Todos los jugadores que hayan apostado por ese emprendedor ganan el dinero de todos los que hayan apostado por el otro (de manera proporcional a la cantidad que hayan invertido).
 
