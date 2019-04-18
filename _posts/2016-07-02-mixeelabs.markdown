@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Mixee Labs
-date: 2016-09-02
+date: 2016-07-02
 description: 
 img: assets/img/cover/mixeelabs.png
 video: ejIKTm7GKWg
