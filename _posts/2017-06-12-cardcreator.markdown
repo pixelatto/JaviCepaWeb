@@ -4,6 +4,7 @@ title: Card Creator
 date: 2017-06-12
 description: Post-mortem del editor de cartas
 img: assets/img/cover/cardcreator.png
+video: liMw3yfeTdo
 tags: [Postmortems]
 words: 2 minutos
 status: published
@@ -56,10 +57,5 @@ Los cuatro siguientes meses los dedicamos a recoger e integrar feedback de la co
 El cambio fue casi instantáneo. Las ventas diarias se doblaron y mantuvieron a partir de esa versión y los ratings fueron subiendo hasta un 80% a finales de año.
 
 Durante ese periodo además sacamos otros muchos parches y actualizaciones y publicamos un [roadmap](https://trello.com/b/WxLZOIDR/card-creator) de la aplicación. El proyecto ha ido tomando vida propia a través de la comunidad y ahora tenemos mucho más clara la dirección que tomar en el futuro.
-
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
 
 ¡Y eso es todo por ahora! Tenemos un montón de novedades planeadas para Card Creator en 2018. Si te gusta crear juegos de cartas merece la pena [echarle un vistazo](http://store.steampowered.com/app/523600/Card_Creator/) ;)

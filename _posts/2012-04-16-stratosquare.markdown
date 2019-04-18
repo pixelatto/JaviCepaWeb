@@ -4,15 +4,11 @@ title: Stratosquare
 date: 2012-04-16
 description: 
 img: assets/img/cover/stratosquare.png
+video: pKi6fX5NSmw
 tags: []
 words: 1 minuto
 status: published
 ---
-
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/pKi6fX5NSmw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">Poco después de hacer este vídeo, el proyecto cayó en el limbo de los proyectos inacabados...</p>
 
 Estuve un par de meses ocioso entre trabajos, así que me puse a hacer este intento de juego en XNA.
 

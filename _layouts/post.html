@@ -5,7 +5,11 @@ layout: main
 <article class="article-page">
   <div class="page-content">
 	<div class="game" {% if page.embed %} style="cursor: pointer;" {% endif %}>
-	  {% if page.img %}
+		{% if page.video %}
+			<div class="video-container">
+				<iframe style="width: 100%;" src="https://www.youtube.com/embed/{{ page.video }}" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+			</div>
+	  {% elsif page.img %}
 		<img class="header-image" src="{{ page.img | relative_url }}">
 			{% if page.embed %}
 			<img class="play-button" src="{{ "assets/img/play.png" | relative_url }}">
