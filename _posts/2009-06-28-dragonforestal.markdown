@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 
-date: 
+date: 2009-06-28
 description: 
 img: assets/img/cover/cover.png
 tags: [tag1, tag2]

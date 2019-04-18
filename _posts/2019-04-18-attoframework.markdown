@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 
-date: 
+date: 2019-04-18
 description: 
 img: assets/img/cover/cover.png
 tags: [tag1, tag2]
@@ -24,4 +24,4 @@ Del juego de cartas me olvidé poco después de empezar la aplicación.
   <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 <p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
--->
+--> 

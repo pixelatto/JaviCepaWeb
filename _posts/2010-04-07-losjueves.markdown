@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 
-date: 
+date: 2010-04-07
 description: 
 img: assets/img/cover/cover.png
 video: hb9xMIGiMbI
