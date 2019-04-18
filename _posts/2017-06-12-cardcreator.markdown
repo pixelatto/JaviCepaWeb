@@ -2,7 +2,7 @@
 layout: post
 title: Card Creator
 date: 2017-06-12
-description: Después de un largo desarrollo, lanzamos nuestra aplicación para crear juegos de cartas
+description: Post-mortem del editor de cartas
 img: assets/img/cover/cardcreator.png
 tags: [Postmortems, Proyectos]
 words: 2 minutos

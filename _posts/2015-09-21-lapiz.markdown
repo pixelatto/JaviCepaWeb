@@ -4,7 +4,7 @@ title: Lápiz & Kiwi
 date: 2015-09-21
 description: 
 img: assets/img/cover/lapiz.png
-tags: []
+tags: [Cosas]
 words: 2 minutos
 status: published
 ---
