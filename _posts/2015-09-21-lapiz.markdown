@@ -1,27 +1,24 @@
 ﻿---
 layout: post
-title: Lápiz
+title: Lápiz & Kiwi
 date: 2015-09-21
 description: 
 img: assets/img/cover/lapiz.png
 tags: []
+words: 2 minutos
+status: published
 ---
 
+Un ¿juego? sobre mis perros, Lápiz y Kiwi, en el que das vueltas a un lago.
 
-<!-- Sample image embed
-![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
-<p class="image-caption">Image caption</p>
--->
+Me lo propuse como un pequeño estudio del parallax rotativo artificial (2D) inspirado principalmente en un boss de Dinamite Headdy (Megadrive) que usaba esta técnica, [Spinderella](https://www.youtube.com/watch?v=x01qwb2pwTY)).
 
-<!-- Sample blockquote
-<blockquote>
-Del juego de cartas me olvidé poco después de empezar la aplicación.
-</blockquote>
--->
+Controlas a Lápiz, y puedes correr, saltar, sentarte o "hacer tus necesidades". Kiwi no hace más que correr descontrolado, como suele ser habitual.
 
-<!-- Sample responsive video embed
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
--->
+Por alguna razón, programé un "depósito" de vegiga de modo que tienes que esperar un tiempo entre pipí y pipí. En aquel momento pareció importante y... ¡¡No tengo por qué dar explicaciones!!
+
+Como curiosidad, los sprites se reaprovecharon y ambos dos son personajes jugables en Lonk's Adventure (aunque Lápiz sólo es accesible con un código secreto...).
+
+Por desgracia perdí el ejecutable y proyecto de esta maravillosa pieza de tecnología... Sólo tengo este Tweet en el que se puede ver a lápiz correr en todo su esplendor:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My dog &quot;Lápiz&quot; set in motion with the new twitter animated GIFs: <a href="https://twitter.com/hashtag/ScreenshotSaturday?src=hash&amp;ref_src=twsrc%5Etfw">#ScreenshotSaturday</a> <a href="http://t.co/cDcNvSTdpV">pic.twitter.com/cDcNvSTdpV</a></p>&mdash; Javi Cepa (@JaviCepa) <a href="https://twitter.com/JaviCepa/status/480265512300335104?ref_src=twsrc%5Etfw">June 21, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

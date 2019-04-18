@@ -52,7 +52,7 @@ Otro problema importante era la falta de un objetivo claro. El juego consistía 
 * Gráficos: los cubos que trae Unity, hábilmente escalados
 * Sonido: BFXR, sin música
 
-### Lo puntuado:
+### Rankings:
 <table>
 <tr><th></th><th class="cell-center">Puntuación</th><th class="cell-center">Puesto</th></tr>
 <tr><td>Graphics	</td><td class="cell-center score">4.17</td><td class="cell-center rank">#42 </td></tr>

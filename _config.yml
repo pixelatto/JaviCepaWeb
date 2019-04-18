@@ -1,7 +1,6 @@
 title: JaviCepa.com
-description: > # this means to ignore newlines until "baseurl:"
-  Otro indie más dedicado a escribir cosas que sólo va a leer él
-  
+description: Game design, Ingeniería y frikismos varios
+
 permalink: ':title/'
 # baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Javi Cepa # add your name
 author-img: javicepa.png # add your photo
-about-author: Hago juegos a cambio de comida
+about-author: Game design, Ingeniería y frikismos varios
 twitter: JaviCepa # add your Twitter handle
 linkedin: javiercepa # add your Linkedin handle
 email: javi@pixelatto.com # add your Email address

@@ -62,7 +62,7 @@ Valoraciones generales de esta compo...
 * Gráficos: Pickle Editor
 * Sonido: BFXR + PxTone
 
-### Lo puntuado:
+### Rankings:
 <table>
 <tr><th></th><th class="cell-center">Puntuación</th><th class="cell-center">Puesto</th></tr>
 <tr><td>Overall		</td><td class="cell-center score">3.830</td><td class="cell-center rank">#94</td></tr>

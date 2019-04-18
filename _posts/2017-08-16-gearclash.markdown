@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Gear Crash
+title: Gear Clash
 date: 2017-08-16
 description: 
 img: assets/img/cover/gearcrash.png
