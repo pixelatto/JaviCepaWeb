@@ -1,5 +1,5 @@
 title: JaviCepa.com
-description: Hago cosas
+description: Una lista de mis "cosas"
 
 permalink: ':title/'
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Javi Cepa # add your name
 author-img: javicepa.png # add your photo
-about-author: Hago cosas
+about-author: Una lista de mis "cosas"
 twitter: JaviCepa # add your Twitter handle
 linkedin: javiercepa # add your Linkedin handle
 email: javi@pixelatto.com # add your Email address
