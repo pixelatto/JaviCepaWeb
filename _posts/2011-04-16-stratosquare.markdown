@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Stratosquare
-date: 2012-04-16
+date: 2011-04-16
 description: Mi primer intento serio de juego
 img: assets/img/cover/stratosquare.png
 video: pKi6fX5NSmw
