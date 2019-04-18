@@ -2,7 +2,7 @@
 layout: post
 title: Heavy Industries
 date: 2016-12-09
-description: 
+description: Y tú que te quejabas de tu anterior trabajo...
 img: assets/img/cover/heavyindustries.png
 video: iNeBuRsDnsE
 tags: [LudumDare]

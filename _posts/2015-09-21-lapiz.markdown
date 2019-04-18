@@ -2,7 +2,7 @@
 layout: post
 title: Lápiz & Kiwi
 date: 2015-09-21
-description: 
+description: Para mis perros, con amor
 img: assets/img/cover/lapiz.png
 tags: [Cosas]
 words: 2 minutos

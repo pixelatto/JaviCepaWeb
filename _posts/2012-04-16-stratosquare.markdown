@@ -2,10 +2,10 @@
 layout: post
 title: Stratosquare
 date: 2012-04-16
-description: 
+description: Mi primer intento serio de juego
 img: assets/img/cover/stratosquare.png
 video: pKi6fX5NSmw
-tags: []
+tags: [Postmortems]
 words: 1 minuto
 status: published
 ---
