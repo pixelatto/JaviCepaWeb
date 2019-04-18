@@ -15,7 +15,7 @@ Me lo propuse como un pequeño estudio del parallax rotativo artificial (2D) ins
 
 Controlas a Lápiz, y puedes correr, saltar, sentarte o "hacer tus necesidades". Kiwi no hace más que correr descontrolado, como suele ser habitual.
 
-Por alguna razón, programé un "depósito" de vegiga de modo que tienes que esperar un tiempo entre pipí y pipí. En aquel momento pareció importante y... ¡¡No tengo por qué dar explicaciones!!
+<blockquote>Por alguna razón, programé un "depósito" de vegiga de modo que tienes que esperar un tiempo entre pipí y pipí. En aquel momento pareció importante y... ¡¡No tengo por qué dar explicaciones!!</blockquote>
 
 Como curiosidad, los sprites se reaprovecharon y ambos dos son personajes jugables en Lonk's Adventure (aunque Lápiz sólo es accesible con un código secreto...).
 

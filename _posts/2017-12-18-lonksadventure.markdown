@@ -93,7 +93,7 @@ Ahora mismo tengo el proyecto en andamios con algunas mejoras interesantes, como
 * Gráficos: Aseprite
 * Sonido: BFXR + Mixcraft
 
-### Lo puntuado:
+### Rankings:
 <table>
 <tr><th></th><th class="cell-center">Puntuación</th><th class="cell-center">Puesto</th></tr>
 <tr><td>Overall		</td><td class="cell-center score">4.288</td><td class="cell-center rank">#3</td></tr>

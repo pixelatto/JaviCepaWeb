@@ -48,6 +48,8 @@ Me puse a hacer algunos de los sonidos para airearme un poco.
 
 Volví a la carga añadiendo un shader de postprocesado de outline vía Sobel, un ciclo básico de día/noche y un tone mapping vía LUT.
 
+<blockquote>Tengo un problema con esto de los ciclos día/noche... Siempre meto alguna cosa de estas, aunque sea totalmente innecesario son tan bonitos...</blockquote>
+
 A media tarde ya en modo desesperación saqué la tijera, empecé a recortar por todos lados y empezó a verse un principio de juego.
 
 Entre los recortes, descansan en paz:
@@ -62,6 +64,8 @@ Además de eso, en algún momento de la tarde descubrí horrorizado como el navm
 Sigue pasando el día y nos plantamos en las últimas 4 horas, que siempre dan para mucho a cambio de ser súper estresantes.
 
 No tenía tiempo para ponerme al piano a grabar pistas y hacer una música más o menos aceptable como otras veces, así que opté por tirar de voz+micro sucio y ponerle un par de efectos comodín para disimularlo un poco (pitch+reverb).
+
+<blockquote>Paradójicamente, el cutre-enfoque de banda sonora es de las cosas que más gustó de este juego</blockquote>
 
 Después me puse a ajustar los LUTs de día y noche en Photoshop. Quería que el LUT nocturno mostrase a los zombies como una silueta negra y resaltase a tope el color rojo de los ojos en la oscuridad. En algún momento del finde tuve este efecto clavado, pero al ir haciendo correcciones de luz se acabó perdiendo y no lo pude rescatar a tiempo.
 
