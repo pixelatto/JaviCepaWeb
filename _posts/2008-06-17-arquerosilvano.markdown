@@ -1,27 +1,30 @@
 ﻿---
 layout: post
-title: 
+title: Arquero Silvano
 date: 2008-06-17
-description: 
-img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+description: Un dibujo que hice con ratón
+img: assets/img/cover/arquero.png
+video: jKzttZS85IQ
+tags: [Cosas]
+words: 2 minutos
+status: published
 ---
 
+Este arquero lo dibujé para el concurso 2D de la lan party de JuventudCantabria.net hace más de 10 años y está dibujado con ratón, lo cual es un handicap extra.
 
-<!-- Sample image embed
-![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
-<p class="image-caption">Image caption</p>
--->
+Le tengo un especial cariño porque resume visualmente mi forma de trabajar:
 
-<!-- Sample blockquote
-<blockquote>
-Del juego de cartas me olvidé poco después de empezar la aplicación.
-</blockquote>
--->
+- Aunque no suela dibujar, no le tengo miedo a enfrentarme a un problema nuevo
+- Si lo hago mal al principio, soy lo suficiente autocrítico como para ver mis fallos y mejorar sobre ellos
+- No me importa tirar trabajo si creo que está lastrando el proyecto en general
+- Doy las vueltas que haga falta hasta estar satisfecho con la calidad del resultado
 
-<!-- Sample responsive video embed
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
--->
+¡Encima me llevé el primer premio! :D
+
+Como curiosidad, el arquero está basado en una de las miniaturas de mi ejército de Warhammer de Elfos Silvanos.
+
+![]({{ "/assets/img/content/arqueroinicio.jpg" | absolute_url }})
+<p class="image-caption">Aquí tienes la versión inicial, para que te persiga en tus pesadillas</p>
+
+![]({{ "/assets/img/content/arquerofin.jpg" | absolute_url }})
+<p class="image-caption">Y aquí cómo quedó al final</p>

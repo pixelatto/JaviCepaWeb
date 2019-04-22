@@ -1,27 +1,23 @@
 ﻿---
 layout: post
-title: 
+title: Chilifish
 date: 2013-09-17
-description: 
-img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+description: Una aplicación infantil para crear peces
+img: assets/img/cover/chilifish.png
+video: b_PQj6Kt11k
+tags: [Postmortems]
+words: 2 minuto
+status: published
 ---
 
+Al poco tiempo de mudarme a Málaga, entré a trabajar como Lead Unity Programmer en un pequeño estudio de desarrollo de aplicaciones infantiles.
 
-<!-- Sample image embed
-![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
-<p class="image-caption">Image caption</p>
--->
+La primera aplicación de este estudio era Chilifish, una actividad en la que niños de hasta 5 años podían crear y personalizar sus propios peces de colores.
 
-<!-- Sample blockquote
-<blockquote>
-Del juego de cartas me olvidé poco después de empezar la aplicación.
-</blockquote>
--->
+Llevábamos unos cuantos meses de proyecto y aquello no despegaba. La falta de experiencia del diseñador hizo que se hiciera y deshicieran muchas versiones. Aquello no despegaba.
 
-<!-- Sample responsive video embed
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
--->
+Hice una propuesta en forma de prototipo sobre cómo creía que se podía solucionar aquello, con cuidado de no invadir el área de responsabilidad del designer, pero fue descartada al poco. Sí que fue aceptado mi rediseño de la interfaz: en lugar de menúes desplegables con todas las opciones, van apareciendo burbujas con ítems al azar para que el niño pueda ir escogiendo los que le gustan.
+
+Me desmotiva bastante dedicar mi tiempo a proyectos que veo que no avanzan, así que a los 6 meses decidí abandonar la empresa y arranqué lo que un tiempo después sería Pixelatto.
+
+Chilifish fue lanzada tras más de un año de desarrollo. Cuando me enteré me alegré de haber tomado aquella decisión: si hubiese estado más de un año trabajando en un proyecto tan básico me hubiera agobiado bastante...

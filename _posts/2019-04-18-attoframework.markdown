@@ -1,27 +1,18 @@
 ﻿---
 layout: post
-title: 
+title: Atto
 date: 2019-04-18
-description: 
-img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+description: Una arquitectura base para proyectos en Unity
+img: assets/img/cover/atto.png
+tags: [Cosas]
+words: 1 minuto
+status: published
 ---
 
+Desde hace un tiempo en Pixelatto venimos trabajando con una arquitectura de contenedor de servicios que nos proporciona un buen balance entre velocidad de uso y mantenibilidad.
 
-<!-- Sample image embed
-![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
-<p class="image-caption">Image caption</p>
--->
+Viendo que es uno de los puntos en los que más suelen fallar los proyectos que suelo ver de gente que está empezando, he decidido liberar el código.
 
-<!-- Sample blockquote
-<blockquote>
-Del juego de cartas me olvidé poco después de empezar la aplicación.
-</blockquote>
--->
+Es muy fácil de utilizar, tan sólo tienes que importar el paquete y escribir "Atto." en cualquier lado del código para que intellisense te lleve de la mano.
 
-<!-- Sample responsive video embed
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
---> 
+Disponible [aquí](https://github.com/pixelatto/atto).

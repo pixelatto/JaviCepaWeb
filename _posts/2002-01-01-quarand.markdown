@@ -1,0 +1,20 @@
+﻿---
+layout: post
+title: Quarand
+date: 2002-01-01
+description: Un juego de rol en un universo original
+img: assets/img/cover/quarand.png
+tags: [Juegos de mesa]
+words: 2 minutos
+status: published
+---
+
+Quarand es un juego de rol de mesa que empecé a diseñar cuando tenía 15 años y he llevado siempre en paralelo como un side project.
+
+En sus inicios era un tipo de rol muy improvisativo, en el que el jugador podía ser el tipo de personaje que quisiera y las aventuras se desarrollaban sobre la marcha.
+
+Esto dió lugar a personajes tan dispares como una lata de maíz, una langosta supersaiyan, un yeti que no hablaba, un jedi llamado Yodo o un gato con implantes cibernéticos. True story.
+
+A medida que iba rodando el juego con partidas con los amigos, fui añadiéndole sistemas algo más rígidos en pro de arreglar los desbalanceos que iban surgiendo.
+
+Con el tiempo, empecé a desarrollar todo un mundo, lore, criaturas y trasfondos para tener una base más completa y coherente sobre la que montar sus aventuras, y a día de hoy sigo añadiendo cositas de vez en cuando.

@@ -4,7 +4,7 @@ title: Infrared Shifter
 date: 2017-12-22
 description: Cómo hacer desaparecer mandos a distancia
 img: assets/img/cover/irshifter.jpg
-tags: [Arduino]
+tags: [DIY]
 words: 2 minutos
 status: published
 ---
