@@ -4,7 +4,7 @@ title: The Last Rock
 date: 2013-12-10
 description: Sobrevive al apocalípsis con una piedra
 img: assets/img/cover/thelastrock.png
-tags: [LudumDare]
+tags: [Jams]
 words: 1 minuto
 status: published
 ---

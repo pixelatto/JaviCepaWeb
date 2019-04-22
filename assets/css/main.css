@@ -1493,6 +1493,12 @@ body {
   max-width: 99999999px !important;
 }
 
+.post {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .article-page {
   max-width: 960px;
   margin: auto;
@@ -1500,6 +1506,11 @@ body {
 
 .sidebar {
   box-shadow: #c3c3c34f 3px -1px 20px 0px;
+}
+
+.page-share {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cover-author-image {

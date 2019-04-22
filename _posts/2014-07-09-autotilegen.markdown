@@ -2,7 +2,7 @@
 layout: post
 title: AutoTileGen
 date: 2014-07-09
-description: Charla de presentación de la aplicación
+description: Generador automático de tilesets 2D
 img: assets/img/cover/autotilegen.png
 video: xuBsvFS4tb0
 tags: [Charlas]

@@ -2,7 +2,7 @@
 layout: post
 title: Card Creator
 date: 2017-06-12
-description: Post-mortem del editor de cartas
+description: Herramienta para crear juegos de cartas
 img: assets/img/cover/cardcreator.png
 video: liMw3yfeTdo
 tags: [Postmortems]
