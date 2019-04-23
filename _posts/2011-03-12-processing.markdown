@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: 
+title: Processing
 date: 2011-03-12
-description: 
+description: Pequeños prototipos visuales
 img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+tags: [Cosas]
 ---
 
 
