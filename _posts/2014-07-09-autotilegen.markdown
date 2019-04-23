@@ -19,7 +19,7 @@ Si hubiera hecho con código limpio, el tiempo de desarrollo se hubiera dilatado
 Dicho de otra manera: lo perfecto es enemigo de lo bueno.
 
 <div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/eC6qbiz3XIw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/eC6qbiz3XIw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 <p class="image-caption">El trailer de AutoTileGen</p>
 

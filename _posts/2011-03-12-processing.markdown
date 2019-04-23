@@ -3,25 +3,28 @@ layout: post
 title: Processing
 date: 2011-03-12
 description: Pequeños prototipos visuales
-img: assets/img/cover/cover.png
+img: assets/img/cover/processing.png
 tags: [Cosas]
 ---
 
+Processing es un lenguaje de programación visual basado en Java muy ágil para hacer pequeños prototipos. Hubo una temporada en la que le di bastante, aquí van algunas de las cosas que hice:
 
-<!-- Sample image embed
-![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
-<p class="image-caption">Image caption</p>
--->
-
-<!-- Sample blockquote
-<blockquote>
-Del juego de cartas me olvidé poco después de empezar la aplicación.
-</blockquote>
--->
-
-<!-- Sample responsive video embed
 <div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/TeDahA0lcsI?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
--->
+<p class="image-caption">IA depredadora VS presa</p>
+
+<div class="video-container">
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/CnYwCq5zwJM?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<p class="image-caption">Simulación de física de membrana/célula</p>
+
+<div class="video-container">
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/rFPyYHBUzNs?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<p class="image-caption">Engine de renderizado isométrico</p>
+
+<div class="video-container">
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/_HajhHuC3Vw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<p class="image-caption">Motor de física 2D custom basado en mapas de bits</p>

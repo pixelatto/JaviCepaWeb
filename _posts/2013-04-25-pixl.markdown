@@ -30,7 +30,7 @@ La perspectiva isométrica trajo un problema importante, era muy difícil saber 
 Otro problema importante era la falta de un objetivo claro. El juego consistía en ver quién llega más lejos y establece un nuevo récord, pero al ser la generación procedural se acercaba mucho a un juego de puro azar. Esto resultaba en que la gente se cansase al poco de empezar.
 
 <div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/nY4SEY_VBN8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/nY4SEY_VBN8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 <p class="image-caption">Timelapse del proceso completo de desarrollo</p>
 
