@@ -2,7 +2,7 @@
 layout: post
 title: Dragón Forestal
 date: 2009-06-28
-description: 
+description: Otro de mis pinitos en el mundo del modelado
 img: assets/img/cover/dragon.png
 video: HDHyBFW_DPo
 tags: [Cosas]

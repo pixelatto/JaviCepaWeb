@@ -2,7 +2,7 @@
 layout: post
 title: Domótica casera
 date: 2019-01-11
-description: 
+description: Automatizaciones domésticas con Zigbee
 img: assets/img/cover/domotica.jpg
 tags: [DIY]
 words: 3 minutos
