@@ -2,8 +2,8 @@
 layout: post
 title: Sistema de fijación rápida
 date: 2011-01-28
-description: Proyecto final de ingeniería
-img: assets/img/cover/cover.png
+description: PFC de Ingeniería Industrial
+img: assets/img/cover/pfc.png
 video: fwqJoXIlZEA
 tags: [Cosas]
 words: 1 minuto
