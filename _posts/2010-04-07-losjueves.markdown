@@ -26,12 +26,12 @@ Aquí van algunos de mis temas favoritos, con variados acabados:
     <source src="/assets/audio/CuatroPapeles.mp3" type="audio/mp3" />
 </audio>
 
-<h3>"Eva (Acústico)"</h3>
+<h3>"Eva" (Acústico)</h3>
 <audio id="player2" controls>
     <source src="/assets/audio/Eva-AC.mp3" type="audio/mp3" />
 </audio>
 
-<h3>"Aviones de Papel (Acústico)"</h3>
+<h3>"Aviones de Papel" (Acústico)</h3>
 <audio id="player3" controls>
     <source src="/assets/audio/AvionesDePapel-AC.mp3" type="audio/mp3" />
 </audio>
@@ -46,7 +46,7 @@ Aquí van algunos de mis temas favoritos, con variados acabados:
     <source src="/assets/audio/EnTuMirada.mp3" type="audio/mp3" />
 </audio>
 
-<h3>"Al Final (Borrador)"</h3>
+<h3>"Al Final" (Borrador)</h3>
 <audio id="player6" controls>
     <source src="/assets/audio/AlFinal-AC.mp3" type="audio/mp3" />
 </audio>
