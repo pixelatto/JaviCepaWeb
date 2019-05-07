@@ -22,31 +22,31 @@ Unos meses más tarde me junté con Álvaro Herrero y nos pusimos a sacar temas 
 Aquí van algunos de mis temas favoritos, con variados acabados:
 
 <h3>"Eva" (Acústico)</h3>
-<audio id="player2" controls>
+<audio id="player2" controls style="width: 100%;">
     <source src="/assets/audio/Eva-AC.mp3" type="audio/mp3" />
 </audio>
 
 <h3>"Cuatro Papeles" (Ensayo)</h3>
-<audio id="player1" controls>
+<audio id="player1" controls style="width: 100%;">
     <source src="/assets/audio/CuatroPapeles.mp3" type="audio/mp3" />
 </audio>
 
 <h3>"Aviones de Papel" (Acústico)</h3>
-<audio id="player3" controls>
+<audio id="player3" controls style="width: 100%;">
     <source src="/assets/audio/AvionesDePapel-AC.mp3" type="audio/mp3" />
 </audio>
 
 <h3>"El Reflejo de los Cristales"</h3>
-<audio id="player4" controls>
+<audio id="player4" controls style="width: 100%;">
     <source src="/assets/audio/ElReflejoDeLosCristales.mp3" type="audio/mp3" />
 </audio>
 
 <h3>"En tu Mirada"</h3>
-<audio id="player5" controls>
+<audio id="player5" controls style="width: 100%;">
     <source src="/assets/audio/EnTuMirada.mp3" type="audio/mp3" />
 </audio>
 
 <h3>"Al Final" (Borrador)</h3>
-<audio id="player6" controls>
+<audio id="player6" controls style="width: 100%;">
     <source src="/assets/audio/AlFinal-AC.mp3" type="audio/mp3" />
 </audio>
