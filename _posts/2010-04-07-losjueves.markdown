@@ -19,7 +19,12 @@ Unos meses más tarde me junté con Álvaro Herrero y nos pusimos a sacar temas 
 ¡No llenábamos estadios (¿O tal vez sí...?) pero era muy divertido!
 ¡Pop-rock universitario en estado puro! 
 
-Aquí van algunos de mis temas favoritos, con variados acabados:
+Aquí van algunos de mis temas favoritos, en varios formatos:
+
+<h3>"Aviones de Papel" (Acústico)</h3>
+<audio id="player3" controls style="width: 100%;">
+    <source src="/assets/audio/AvionesDePapel-AC.mp3" type="audio/mp3" />
+</audio>
 
 <h3>"Eva" (Acústico)</h3>
 <audio id="player2" controls style="width: 100%;">
@@ -31,17 +36,12 @@ Aquí van algunos de mis temas favoritos, con variados acabados:
     <source src="/assets/audio/CuatroPapeles.mp3" type="audio/mp3" />
 </audio>
 
-<h3>"Aviones de Papel" (Acústico)</h3>
-<audio id="player3" controls style="width: 100%;">
-    <source src="/assets/audio/AvionesDePapel-AC.mp3" type="audio/mp3" />
-</audio>
-
-<h3>"El Reflejo de los Cristales"</h3>
+<h3>"El Reflejo de los Cristales" (Estudio)</h3>
 <audio id="player4" controls style="width: 100%;">
     <source src="/assets/audio/ElReflejoDeLosCristales.mp3" type="audio/mp3" />
 </audio>
 
-<h3>"En tu Mirada"</h3>
+<h3>"En tu Mirada" (Estudio)</h3>
 <audio id="player5" controls style="width: 100%;">
     <source src="/assets/audio/EnTuMirada.mp3" type="audio/mp3" />
 </audio>
