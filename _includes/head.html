@@ -26,9 +26,9 @@
 	<meta name="twitter:site" content="@{{ site.site-twitter }}">
 	<meta name="twitter:creator" content="@{{ site.twitter }}">
 
-	<meta property="og:title" content="{{ page.title }}" >
+	<meta property="og:title" content="{{ page.title }}">
 	{% if page.title %}
-	<meta property="og:site_name" content="{{ site.title }}">  
+	<meta property="og:site_name" content="{{ site.title }}">
 	{% else %}
 	<meta content="{{ site.title }}" property="og:title">
 	{% endif %}
@@ -38,7 +38,7 @@
 	<meta property="og:type" content="website">
 	{% endif %}
 	{% if page.img %}
-	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.img }}" >
+	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.img }}">
 	{% else %}
 	<meta property="og:image" content="/img/javicepa.png">
 	{% endif %}
@@ -62,16 +62,19 @@
 	{% endfor %}
 	{% endif %}
 
-  
+
 	<meta name="description" content="{{ page.description }}">
-	
+
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta property="og:image" content="">
-	<link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon/favicon.png" | prepend: site.baseurl }}" type="image/x-icon">
+	<link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon/favicon.png" | prepend: site.baseurl }}"
+		type="image/x-icon">
 	<link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/img/favicon/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/img/favicon/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
+	<link rel="apple-touch-icon" sizes="72x72"
+		href="{{ "/assets/img/favicon/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
+	<link rel="apple-touch-icon" sizes="114x114"
+		href="{{ "/assets/img/favicon/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
 	<!-- Chrome, Firefox OS and Opera -->
 	<meta name="theme-color" content="#263959">
 	<!-- Windows Phone -->
@@ -85,12 +88,13 @@
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
-	
+
 	<script src="/jquery-3.2.1.js"></script>
 	<script src="/jquery.color-2.1.2.js"></script>
 	<script src="/scorebeautifier.js"></script>
 	<link rel="stylesheet" href="/highlight.css">
 	<script src="/highlight.js"></script>
+	<script src="/plyr.js"></script>
 	<script>
 		hljs.initHighlightingOnLoad();
 	</script>
