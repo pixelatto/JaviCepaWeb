@@ -21,14 +21,14 @@ Unos meses más tarde me junté con Álvaro Herrero y nos pusimos a sacar temas 
 
 Aquí van algunos de mis temas favoritos, con variados acabados:
 
-<h3>"Cuatro Papeles"</h3>
-<audio id="player1" controls>
-    <source src="/assets/audio/CuatroPapeles.mp3" type="audio/mp3" />
-</audio>
-
 <h3>"Eva" (Acústico)</h3>
 <audio id="player2" controls>
     <source src="/assets/audio/Eva-AC.mp3" type="audio/mp3" />
+</audio>
+
+<h3>"Cuatro Papeles" (Ensayo)</h3>
+<audio id="player1" controls>
+    <source src="/assets/audio/CuatroPapeles.mp3" type="audio/mp3" />
 </audio>
 
 <h3>"Aviones de Papel" (Acústico)</h3>
