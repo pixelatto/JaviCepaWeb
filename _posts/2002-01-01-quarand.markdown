@@ -7,6 +7,8 @@ img: assets/img/cover/quarand.png
 tags: [Juegos de mesa]
 words: 2 minutos
 status: published
+action-text: Wiki en Notion
+action-link: https://www.notion.so/pixelatto/Universo-Quarand-de797974baca4b06bb0a4c495079d335
 ---
 
 Quarand es un juego de rol de mesa que empecé a diseñar cuando tenía 15 años y he llevado siempre en paralelo como un side project.
@@ -18,3 +20,5 @@ Esto dió lugar a personajes tan dispares como una lata de maíz, una langosta s
 A medida que iba rodando el juego con partidas con los amigos, fui añadiéndole sistemas algo más rígidos en pro de arreglar los desbalanceos que iban surgiendo.
 
 Con el tiempo, empecé a desarrollar todo un mundo, lore, criaturas y trasfondos para tener una base más completa y coherente sobre la que montar sus aventuras, y a día de hoy sigo añadiendo cositas de vez en cuando.
+
+Puedes ver parte del contenido en el enlace a continuación.
