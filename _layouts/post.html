@@ -22,7 +22,8 @@ layout: main
 		{% if page.embed %}
 		<script>
 			$('.playbutton,img').click(function () {
-				var gameVar = '<div class="unity-container"><iframe src="{{ page.embed | relative_url }}"></iframe></div>';
+				var gameVar =
+					'<div class="unity-container"><iframe src="{{ page.embed | relative_url }}"></iframe></div>';
 				$('.game').hide();
 				$('.embedgame').html(gameVar);
 				$('.close').show();
@@ -45,6 +46,9 @@ layout: main
 				<span class="page-date">{{ day }} de {{ month }}, {{ year }}</span>
 			</header>
 			{{page.content | markdownify}}
+			{% if page.action-link and page.action-text %}
+			<a class="push_button blue" href="{{ page.action-link }}">{{ page.action-text }}</a>
+			{% endif %}
 			<div class="page-footer">
 				<div class="page-share">
 					<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}"
