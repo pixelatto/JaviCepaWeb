@@ -7,6 +7,8 @@ img: assets/img/cover/guiagamedev.png
 tags: [Cosas]
 words: 5 minutos
 status: published
+action-text: Bonus track
+action-link: http://yourgameideaistoobig.com/
 ---
 
 Desde que empecé en esto de los videojuegos, he recorrido y visto recorrer a prácticamente tooodo el que entra en esta industria un camino sospechosamente parecido.

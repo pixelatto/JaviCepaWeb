@@ -7,6 +7,8 @@ img: assets/img/cover/shutupandtakemymoney.png
 tags: [Jams]
 words: 3 minutos
 status: published
+action-text: Descarga en Itch
+action-link: https://turbocorp.itch.io/takemymoney
 ---
 
 Una tradición que nos traemos entre los socios de Turbocorp TM es la de crear un pequeño juego/experimento en los huecos que podemos encontrar durante la organización de las jams de la asociación.

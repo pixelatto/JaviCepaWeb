@@ -1725,7 +1725,10 @@ table td {
   line-height: 43px;
   font-family: 'Oswald', Helvetica;
   display: block;
-  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .push_button:before {

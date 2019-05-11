@@ -8,6 +8,8 @@ embed: assets/embed/lonksadventure/index.html
 tags: [Jams]
 words: 4 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: https://ldjam.com/events/ludum-dare/40/$65375
 ---
 
 Vuelvo a la carga otra vez en modo compo. Esta vez el tema es algo así como "cuanto más tienes, peor". Por alguna razón nunca salen los temas que me gustan, pero hay que trabajar con lo que hay.

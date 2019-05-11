@@ -8,6 +8,8 @@ video: xuBsvFS4tb0
 tags: [Charlas]
 words: 20 minutos
 status: published
+action-text: AutoTileGen en Steam
+action-link: https://store.steampowered.com/app/305860/AutoTileGen/
 ---
 
 AutoTileGen fue la aplicación que me permitió arrancar Pixelatto como proyecto empresarial. En esta charla explico cómo pude arrancar todo a partir de un pequeño crowdfunding en el IE Business School de Madrid, para un Betabeers temático de videojuegos.

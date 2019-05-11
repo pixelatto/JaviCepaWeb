@@ -5,6 +5,8 @@ date: 2011-03-12
 description: Pequeños prototipos visuales
 img: assets/img/cover/processing.png
 tags: [Cosas]
+words: 3 minutos
+status: published
 ---
 
 Processing es un lenguaje de programación visual basado en Java muy ágil para hacer pequeños prototipos. Hubo una temporada en la que le di bastante, aquí van algunas de las cosas que hice:

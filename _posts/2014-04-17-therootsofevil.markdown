@@ -8,6 +8,8 @@ embed: assets/embed/therootsofevil/index.html
 tags: [Jams]
 words: 3 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=19200
 ---
 
 En fin de semana que coincidía con esta Ludum Dare #29 me pilló de viaje en el Madrid Games Week, así que en un principio descartaba presentarme está vez.

@@ -7,6 +7,8 @@ img: assets/img/cover/getrich.png
 tags: [Jams]
 words: 2 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=53114
 ---
 
 En Get Rich! asumes el papel de un caballero/señorita de gran poder adquisitivo que desea negociar con otros caballeros y señoritas de su clase.

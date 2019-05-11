@@ -7,6 +7,8 @@ img: assets/img/cover/irshifter.jpg
 tags: [DIY]
 words: 2 minutos
 status: published
+action-text: Código fuente
+action-link: /assets/code/irshifter.txt
 ---
 
 Hace unas semanas me compré un flamante [equipo de audio 5.1](https://www.amazon.es/Logitech-Z906-altavoces-envolvente-inalámbrico/dp/B004PGM9KY) para la TV del salón. El equipo se oye genial, pero tiene la pega de añadir otro mando más a la mesa para controlar el volumen, cosa que antes hacía más cómodamente desde el mando de la TV.
@@ -48,4 +50,4 @@ Al rato de usarlo mi mujer, me dijo que el volumen se disparaba al dar a botones
 ![]({{ "/assets/img/content/tworemotes.jpg" | absolute_url }})
 <p class="image-caption">¡Uno menos! ¡El próximo eres tú, mando de ventilador!</p>
 
-Para terminar [dejo aquí](/assets/code/irshifter.txt) el programa completo. No es el código más limpio del mundo, pero hace su trabajo ;)
+Para terminar, dejo aquí el programa completo. No es el código más limpio del mundo, pero hace su trabajo ;)

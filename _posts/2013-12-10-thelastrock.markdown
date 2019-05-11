@@ -7,6 +7,8 @@ img: assets/img/cover/thelastrock.png
 tags: [Jams]
 words: 1 minuto
 status: published
+action-text: Descarga en LudumDare
+action-link: http://ludumdare.com/compo/ludum-dare-28/?action=preview&uid=19200
 ---
 
 En esta compo me propuse estrenar el (en aquel entonces) nuevo sistema de física 2D que había incluido Unity.

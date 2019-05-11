@@ -8,6 +8,8 @@ video: iNeBuRsDnsE
 tags: [Jams]
 words: 3 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=53114
 ---
 
 Otro de los juegos de Turbocorp, para la LudumDare #37 y nuestro debut con la tecnología de [HappyFunTimes](http://docs.happyfuntimes.net/docs/).

@@ -8,11 +8,11 @@ embed: assets/embed/pixl/index.html
 tags: [Jams]
 words: 2 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19200
 ---
 
 Este fue mi primer juego para una Ludum Dare (la #26) y quizá el primero que hice en Unity. Ya había oído hablar de las compos/jams hace tiempo en Twitter y tenía el gusanillo de probar suerte en alguna.
-
-<blockquote>La versión que encabeza este artículo es post-compo. Puedes jugar la original <a href="http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=19200">aquí</a>.</blockquote>
 
 En aquel momento solía trabajar con C#+XNA, pero tenía claro que no iba a ser lo suficientemente ágil para una Jam. Como ya le había dado un tiento a Unity para algún prototipo, me pareció un buen momento para ponerlo a prueba.
 
@@ -67,3 +67,5 @@ Otro problema importante era la falta de un objetivo claro. El juego consistía 
 La paleta de color gustó mucho y tuvo una muy buena puntuación en gráficos. Me sorprendió mucho que llamara tanto la atención.
 
 ¡Y entrar en el top 100 de "Overall" en mi primera compo fue un subidón!
+
+La versión que encabeza este artículo es un remake, la original está disponible en el link a continuación.

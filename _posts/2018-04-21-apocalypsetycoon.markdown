@@ -7,6 +7,8 @@ img: assets/img/cover/apocalypsetycoon.png
 tags: [Jams]
 words: 4 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: https://ldjam.com/events/ludum-dare/41/apocalypse-tycoon
 ---
 
 Otra compo más (#LD41).

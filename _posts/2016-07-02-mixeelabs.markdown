@@ -8,6 +8,8 @@ video: ejIKTm7GKWg
 tags: [Postmortems]
 words: 3 minutos
 status: published
+action-text: Búsqueda de mirrors de descarga
+action-link: https://www.google.com/search?q=mixee+labs+apk&rlz=1C1CHBF_esES840ES840&oq=mixee+labs+apk&aqs=chrome..69i57j0l3.2163j1j7&sourceid=chrome&ie=UTF-8
 ---
 
 En 2016 me mudé a Mallorca para ejercer como Lead Designer en cierto estudio de la isla dedicado al desarrollo de juegos móviles de cuyo nombre prefiero no acordarme.
@@ -28,4 +30,4 @@ Por desgracia, semanas después del soft launch la dirección de empresa se ech�
 
 Peeero esa build de soft launch siguió en Google Play y fue captando adeptos. Llegó a tener más de 2 millones de descargas en Google Play, lo cual es todo un hito teniendo en cuenta que era una aplicación abandonada. Unos meses más tarde retiraron esa y todas las demás aplicaciones de Google Play. Parece que, efectivamente, a ese modelo de negocio no le quedaba mucho...
 
-Si tienes curiosidad, todavía la puedes encontrar en [sitios mirror](https://www.google.com/search?q=mixee+labs+apk&rlz=1C1CHBF_esES840ES840&oq=mixee+labs+apk&aqs=chrome..69i57j0l3.2163j1j7&sourceid=chrome&ie=UTF-8) que todavía tienen el APK.
+Si tienes curiosidad, todavía la puedes encontrar el APK en algunos sitios mirror.

@@ -8,6 +8,8 @@ video: oLG4MtPQ-tY
 tags: [Jams]
 words: 3 minutos
 status: published
+action-text: Descarga en LudumDare
+action-link: https://ldjam.com/events/ludum-dare/38/command-ant-conquer
 ---
 
 ¿Qué pasa cuando los miembros de Pixelatto se alinean para participar en una jam?...

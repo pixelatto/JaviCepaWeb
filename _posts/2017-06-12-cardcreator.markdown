@@ -8,7 +8,10 @@ video: liMw3yfeTdo
 tags: [Postmortems]
 words: 2 minutos
 status: published
+action-text: Card Creator en Steam
+action-link: https://store.steampowered.com/app/523600/Card_Creator/
 ---
+
 Ahora que [Card Creator](http://store.steampowered.com/app/523600/Card_Creator/) ya es mayor, es un buen momento para escribir un pequeño post-mortem.
 
 A mediados de 2015 me dió por ponerme a crear un juego de cartas. Me puse a investigar si había algún software para facilitar la tarea y encontré un programita gratuíto llamado nanDeck que decían por los foros que era el más usado para esto.
