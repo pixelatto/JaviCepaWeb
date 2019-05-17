@@ -3,7 +3,7 @@ layout: post
 title: Mixee Labs
 date: 2016-07-02
 description: 
-img: assets/img/cover/mixeelabs.png
+img: assets/img/cover/mixeelabs.jpg
 video: ejIKTm7GKWg
 tags: [Postmortems]
 words: 3 minutos

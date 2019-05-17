@@ -3,7 +3,7 @@ layout: post
 title: Carrot Stories
 date: 2015-12-14
 description: 
-img: assets/img/cover/carrotstories.png
+img: assets/img/cover/carrotstories.jpg
 tags: []
 ---
 

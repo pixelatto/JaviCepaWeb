@@ -3,7 +3,7 @@ layout: post
 title: Heavy Industries
 date: 2016-12-09
 description: Y tú que te quejabas de tu anterior trabajo...
-img: assets/img/cover/heavyindustries.png
+img: assets/img/cover/heavyindustries.jpg
 video: iNeBuRsDnsE
 tags: [Jams]
 words: 3 minutos

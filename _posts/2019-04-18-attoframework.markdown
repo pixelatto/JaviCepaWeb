@@ -3,7 +3,7 @@ layout: post
 title: Atto
 date: 2019-04-18
 description: Una arquitectura base para proyectos en Unity
-img: assets/img/cover/atto.png
+img: assets/img/cover/atto.jpg
 tags: [Cosas]
 words: 1 minuto
 status: published

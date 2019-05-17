@@ -3,7 +3,7 @@ layout: post
 title: Command Ant Conquer
 date: 2017-04-28
 description: Esta isla no es lo demasiado grande para los 4 
-img: assets/img/cover/commandantconquer.png
+img: assets/img/cover/commandantconquer.jpg
 video: oLG4MtPQ-tY
 tags: [Jams]
 words: 3 minutos

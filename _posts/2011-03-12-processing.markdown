@@ -3,7 +3,7 @@ layout: post
 title: Processing
 date: 2011-03-12
 description: Pequeños prototipos visuales
-img: assets/img/cover/processing.png
+img: assets/img/cover/processing.jpg
 tags: [Cosas]
 words: 3 minutos
 status: published

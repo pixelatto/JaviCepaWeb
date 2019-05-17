@@ -3,7 +3,7 @@ layout: post
 title: MálagaJam
 date: 2015-01-25
 description: 
-img: assets/img/cover/malagajam.png
+img: assets/img/cover/malagajam.jpg
 tags: []
 action-text: Website
 action-link: http://malagajam.com

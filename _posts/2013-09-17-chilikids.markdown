@@ -3,7 +3,7 @@ layout: post
 title: Chilifish
 date: 2013-09-17
 description: Una aplicación infantil para crear peces
-img: assets/img/cover/chilifish.png
+img: assets/img/cover/chilifish.jpg
 video: b_PQj6Kt11k
 tags: [Postmortems]
 words: 2 minuto

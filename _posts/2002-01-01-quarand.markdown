@@ -3,7 +3,7 @@ layout: post
 title: Quarand
 date: 2002-01-01
 description: Un universo fantástico y un juego de rol
-img: assets/img/cover/quarand.png
+img: assets/img/cover/quarand.jpg
 tags: [Juegos de mesa]
 words: 2 minutos
 status: published

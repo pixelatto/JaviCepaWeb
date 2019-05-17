@@ -3,7 +3,7 @@ layout: post
 title: AutoTileGen
 date: 2014-07-09
 description: Generador automático de tilesets 2D
-img: assets/img/cover/autotilegen.png
+img: assets/img/cover/autotilegen.jpg
 video: xuBsvFS4tb0
 tags: [Charlas]
 words: 20 minutos

@@ -3,7 +3,7 @@ layout: post
 title: Arquero Silvano
 date: 2008-06-17
 description: Un dibujo que hice con el ratón
-img: assets/img/cover/arquero.png
+img: assets/img/cover/arquero.jpg
 video: jKzttZS85IQ
 tags: [Cosas]
 words: 2 minutos

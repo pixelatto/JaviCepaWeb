@@ -3,7 +3,7 @@ layout: post
 title: Apache Longbow
 date: 2007-06-15
 description: Mis pinitos modelando en 3D Max
-img: assets/img/cover/apache.png
+img: assets/img/cover/apache.jpg
 video: 2OP8F3xRZDg
 tags: [Cosas]
 words: 1 minuto

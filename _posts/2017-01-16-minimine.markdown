@@ -3,7 +3,7 @@ layout: post
 title: Minimine
 date: 2017-01-16
 description: 
-img: assets/img/cover/minimine.png
+img: assets/img/cover/minimine.jpg
 tags: []
 ---
 
