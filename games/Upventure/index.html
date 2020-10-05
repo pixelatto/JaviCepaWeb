@@ -20,7 +20,7 @@
         WebGL builds are not supported on mobile devices.
       </div>
       <div id="unity-footer">
-        
+        <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
         <div id="unity-build-title">Upventure</div>
       </div>
@@ -29,9 +29,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Upventure.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Upventure.data.gz",
-        frameworkUrl: buildUrl + "/Upventure.framework.js.gz",
-        codeUrl: buildUrl + "/Upventure.wasm.gz",
+        dataUrl: buildUrl + "/Upventure.data",
+        frameworkUrl: buildUrl + "/Upventure.framework.js",
+        codeUrl: buildUrl + "/Upventure.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "JaviCepa",
         productName: "Upventure",
@@ -53,8 +53,8 @@
           mobileWarning.style.display = "none";
         }, 5000);
       } else {
-        canvas.style.width = "1280px";
-        canvas.style.height = "720px";
+        canvas.style.width = "640px";
+        canvas.style.height = "480px";
       }
       loadingBar.style.display = "block";
 
