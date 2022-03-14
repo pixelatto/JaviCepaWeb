@@ -1,11 +1,25 @@
 ﻿---
 layout: post
-title: Minimine
+title: Minimine / Deepventure
 date: 2017-01-16
-description: 
+description: Poquitos píxeles y mucho oro
 img: assets/img/cover/minimine.jpg
 tags: []
+status: published
 ---
+
+Otro prototipo conceptual. La ide aquí era hacer un juego de mining con gráficos lo más simples posibles y que se controlase sólo con el stick de dirección y 2 botones (salto+acción).
+
+En este proyecto me auto-apliqué una cosa que hemos hecho en Pixelatto a veces que llamo "GIF Driven Development", que básicamente viene a ser: sacar un GIF de cada feature que completes.
+
+Hay un montón de estos GIFs disponibles [aquí](https://pixelatto.notion.site/7930f4da08714a7e91639359f4c50b3a?v=92fe428efb3341f88109b4453ab0c66f).
+
+También hice algunos directos en Twitch en los que enseñaba cómo se iba desarrollando el prototipo.
+
+<div class="video-container">
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/5Xch0Ut_Ces&t=5549s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<p class="image-caption">Noches de Twitcheo</p>
 
 
 <!-- Sample image embed
@@ -17,11 +31,4 @@ tags: []
 <blockquote>
 Del juego de cartas me olvidé poco después de empezar la aplicación.
 </blockquote>
--->
-
-<!-- Sample responsive video embed
-<div class="video-container">
-  <iframe style="width: 100%;" src="https://www.youtube.com/embed/liMw3yfeTdo?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-<p class="image-caption">¡Trailer 2.0, con mucho swing!</p>
 -->
