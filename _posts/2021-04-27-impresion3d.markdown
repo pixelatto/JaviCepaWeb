@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: 
-date: 
+title: Impresión 3D
+date: 2021-04-27
 description: 
 img: assets/img/cover/cover.png
 tags: [tag1, tag2]

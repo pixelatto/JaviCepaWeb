@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Ambilight Custom
-date: 
+date: 2021-01-16
 description: 
 img: assets/img/cover/cover.png
 tags: [tag1, tag2]

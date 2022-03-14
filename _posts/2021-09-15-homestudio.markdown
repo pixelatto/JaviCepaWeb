@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Home Studio
-date: 
+date: 2021-09-15
 description: 
 img: assets/img/cover/cover.png
 tags: [tag1, tag2]
