@@ -4,9 +4,26 @@ title: Orbtale
 date: 2021-11-23
 description: 
 img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+video: uu5suVnXRic
+tags: [Postmortems]
+action-text: Kickstarter
+action-link: https://orbtale.com/
+status: published
 ---
 
+Cuando pasó todo el huracán de Reventure, una de mis preocupaciones era "qué viene ahora".
+
+No quería hacer un "Reventure 2" sin más, eso era muy predecible y aburrido.
+
+Tampoco quería repetir los gráficos megapixelados, eso había sido una obligación por presupuesto más que decisión artística.
+
+Siempre había querido diseñar mi propio juego de mesa y además tenía una aplicación maravillosa para hacerlo (Card Creator).
+
+Todos estos ingredientes agitados en mi cabeza durante meses resultaron en lo que a día de hoy es Reventure: Orbtale.
+
+El proyecto fue muy útil para centrarse en el rediseño estético del universo de Reventure sin tener que preocuparnos del código, música y demás complejidades involucradas en el desarrollo de un videojuego. La parte mala es que descubrimos las otras muchas que conlleva enfrentarse a un producto físico, a saber: financiación, fabricación, distribución, playtesting...
+
+Anunciamos el proyecto con una campaña en Kickstarter que funcionó muy bien y ha sido un proyecto muy divertido y original en el que trabajar, 100% alineado con el ADN de Pixelatto ;)
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
