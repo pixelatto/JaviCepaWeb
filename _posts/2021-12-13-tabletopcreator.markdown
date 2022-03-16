@@ -2,8 +2,8 @@
 layout: post
 title: Tabletop Creator
 date: 2021-12-13
-description: 
-img: assets/img/cover/tabletopcreator.png
+description: La mejor manera de crear juegos de mesa
+img: assets/img/cover/tabletopcreator.jpg
 video: CK0ZA9Cp0xA
 tags: [Postmortems]
 status: published
