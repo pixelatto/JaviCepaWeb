@@ -4,7 +4,7 @@ title: Get Rich
 date: 2015-04-22
 description: El dinero no da la felicidad
 img: assets/img/cover/getrich.jpg
-tags: [Jams]
+tags: [Juegos]
 words: 2 minutos
 status: published
 action-text: Descarga en LudumDare

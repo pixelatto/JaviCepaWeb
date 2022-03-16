@@ -4,7 +4,7 @@ title: Piano Guide
 date: 2021-07-12
 description: 
 img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+tags: [Música]
 ---
 
 

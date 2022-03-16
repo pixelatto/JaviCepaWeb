@@ -2,10 +2,10 @@
 layout: post
 title: Los Jueves
 date: 2010-04-07
-description: Oh pero... ¡No parece tu voz!
+description: No parece mi voz, pero es
 img: assets/img/cover/losjueves.jpg
 video: hb9xMIGiMbI
-tags: [Cosas]
+tags: [Música]
 words: 4 minutos
 status: published
 ---

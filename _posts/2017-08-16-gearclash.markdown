@@ -4,7 +4,7 @@ title: Gear Clash
 date: 2017-08-16
 description: Batallas de creatividad
 img: assets/img/cover/gearcrash.png
-tags: []
+tags: [Juegos]
 status: published
 ---
 

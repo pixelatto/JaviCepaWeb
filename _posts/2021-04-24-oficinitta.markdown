@@ -4,7 +4,7 @@ title: Oficinitta
 date: 2021-04-24
 description: 
 img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+tags: [Otros]
 ---
 
 

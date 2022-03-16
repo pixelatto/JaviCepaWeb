@@ -4,7 +4,7 @@ title: Processing
 date: 2011-03-12
 description: Pequeños prototipos visuales
 img: assets/img/cover/processing.jpg
-tags: [Cosas]
+tags: [Juegos]
 words: 3 minutos
 status: published
 ---

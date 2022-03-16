@@ -5,7 +5,7 @@ date: 2021-12-13
 description: La mejor manera de crear juegos de mesa
 img: assets/img/cover/tabletopcreator.jpg
 video: CK0ZA9Cp0xA
-tags: [Postmortems]
+tags: [Proyectos]
 status: published
 action-text: Comprar en Steam
 action-link: https://store.steampowered.com/app/861590/Tabletop_Creator/

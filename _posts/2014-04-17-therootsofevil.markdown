@@ -5,7 +5,7 @@ date: 2014-04-17
 description: Un jardinero salvando el mundo
 img: assets/img/cover/therootsofevil.png
 embed: assets/embed/therootsofevil/index.html
-tags: [Jams]
+tags: [Juegos]
 words: 3 minutos
 status: published
 action-text: Descarga en LudumDare

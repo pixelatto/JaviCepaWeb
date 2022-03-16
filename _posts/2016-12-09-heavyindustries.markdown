@@ -5,7 +5,7 @@ date: 2016-12-09
 description: Y tú que te quejabas de tu anterior trabajo...
 img: assets/img/cover/heavyindustries.jpg
 video: iNeBuRsDnsE
-tags: [Jams]
+tags: [Juegos]
 words: 3 minutos
 status: published
 action-text: Descarga en LudumDare

@@ -5,7 +5,7 @@ date: 2016-09-01
 description: Está feo hablar de dinero, por eso aprendemos tan poco de cómo funciona
 img: assets/img/cover/hablemosdedinero.jpg
 video: pzImm2eb6BY
-tags: [Charlas]
+tags: [Consejos]
 words: 53 minutos
 status: published
 ---

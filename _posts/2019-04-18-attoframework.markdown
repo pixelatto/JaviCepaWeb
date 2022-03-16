@@ -4,7 +4,7 @@ title: Atto
 date: 2019-04-18
 description: Una arquitectura base para proyectos en Unity
 img: assets/img/cover/atto.jpg
-tags: [Cosas]
+tags: [Proyectos]
 words: 1 minuto
 status: published
 action-text: Más info en GitHub

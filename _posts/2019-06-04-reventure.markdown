@@ -2,9 +2,11 @@
 layout: post
 title: Reventure
 date: 2019-06-04
-description: 
-img: assets/img/cover/cover.png
-tags: [Juegos]
+description: El juego de los 100 finales
+img: assets/img/cover/reventure.jpg
+video: aY7EVPVZk2g
+tags: [Proyectos, Juegos]
+status: published
 ---
 
 Durante 2018, Pixelatto iba un poco... como el culo.

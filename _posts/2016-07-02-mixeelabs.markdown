@@ -5,7 +5,7 @@ date: 2016-07-02
 description: 
 img: assets/img/cover/mixeelabs.jpg
 video: ejIKTm7GKWg
-tags: [Postmortems]
+tags: [Proyectos]
 words: 3 minutos
 status: published
 action-text: Búsqueda de mirrors de descarga

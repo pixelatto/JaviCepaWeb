@@ -5,7 +5,7 @@ date: 2014-07-09
 description: Generador automático de tilesets 2D
 img: assets/img/cover/autotilegen.jpg
 video: xuBsvFS4tb0
-tags: [Charlas]
+tags: [Proyectos]
 words: 20 minutos
 status: published
 action-text: AutoTileGen en Steam

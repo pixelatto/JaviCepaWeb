@@ -4,7 +4,7 @@ title: Pixelatto
 date: 2014-05-13
 description: 
 img: assets/img/cover/pixelatto.png
-tags: [Cosas]
+tags: [Proyectos]
 action-text: Website
 action-link: http://pixelatto.com
 ---

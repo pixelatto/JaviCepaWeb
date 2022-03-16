@@ -5,7 +5,7 @@ date: 2013-04-25
 description: Es difícil rodar cuando eres un cuadrado
 img: assets/img/cover/pixl.png
 embed: assets/embed/pixl/index.html
-tags: [Jams]
+tags: [Juegos]
 words: 2 minutos
 status: published
 action-text: Descarga en LudumDare

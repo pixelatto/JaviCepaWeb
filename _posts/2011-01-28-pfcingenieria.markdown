@@ -5,7 +5,7 @@ date: 2011-01-28
 description: PFC de Ingeniería Industrial
 img: assets/img/cover/pfc.png
 video: fwqJoXIlZEA
-tags: [Cosas]
+tags: [Proyectos]
 words: 1 minuto
 status: published
 action-text: Descarga PDF

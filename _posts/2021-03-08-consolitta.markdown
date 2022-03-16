@@ -4,7 +4,7 @@ title: Consolitta
 date: 2021-03-08
 description: 
 img: assets/img/cover/cover.png
-tags: [tag1, tag2]
+tags: [DIY]
 ---
 
 

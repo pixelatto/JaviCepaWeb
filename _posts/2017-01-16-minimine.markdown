@@ -4,7 +4,7 @@ title: Minimine / Deepventure
 date: 2017-01-16
 description: Poquitos píxeles y mucho oro
 img: assets/img/cover/minimine.jpg
-tags: []
+tags: [Juegos]
 status: published
 ---
 

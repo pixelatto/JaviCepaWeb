@@ -5,7 +5,7 @@ date: 2021-11-23
 description: El juego de mesa de Reventure
 img: assets/img/cover/orbtale.png
 video: uu5suVnXRic
-tags: [Postmortems]
+tags: [Proyectos, Juegos]
 action-text: Kickstarter
 action-link: https://orbtale.com/
 status: published

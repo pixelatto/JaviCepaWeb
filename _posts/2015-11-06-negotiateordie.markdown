@@ -4,7 +4,7 @@ title: Negotiate or Die
 date: 2015-11-06
 description: 
 img: assets/img/cover/negotiateordie.jpg
-tags: []
+tags: [Juegos]
 ---
 
 

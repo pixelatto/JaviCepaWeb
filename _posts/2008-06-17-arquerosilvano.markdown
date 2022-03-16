@@ -5,7 +5,7 @@ date: 2008-06-17
 description: Un dibujo que hice con el ratón
 img: assets/img/cover/arquero.jpg
 video: jKzttZS85IQ
-tags: [Cosas]
+tags: [Diseño]
 words: 2 minutos
 status: published
 ---

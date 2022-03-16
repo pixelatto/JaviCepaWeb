@@ -5,7 +5,7 @@ date: 2009-06-28
 description: Otro de mis pinitos en el mundo del modelado
 img: assets/img/cover/dragon.jpg
 video: HDHyBFW_DPo
-tags: [Cosas]
+tags: [Diseño]
 words: 1 minuto
 status: published
 ---

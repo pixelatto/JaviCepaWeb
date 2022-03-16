@@ -4,7 +4,7 @@ title: Monstrocity
 date: 2015-07-23
 description: 
 img: assets/img/cover/monstrocity.png
-tags: []
+tags: [Juegos]
 ---
 
 

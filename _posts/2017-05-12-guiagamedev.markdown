@@ -4,7 +4,7 @@ title: Guía para nuevos GameDevs
 date: 2017-05-12
 description: Consejos prácticos para evitar coscorrones al crear videojuegos
 img: assets/img/cover/guiagamedev.png
-tags: [Cosas]
+tags: [Consejos]
 words: 5 minutos
 status: published
 action-text: Bonus track

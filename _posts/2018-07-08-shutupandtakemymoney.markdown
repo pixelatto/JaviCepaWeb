@@ -4,7 +4,7 @@ title: Shut Up & Take My Money
 date: 2018-07-08
 description: Educando a los inversores del mañana
 img: assets/img/cover/shutupandtakemymoney.png
-tags: [Jams]
+tags: [Juegos]
 words: 3 minutos
 status: published
 action-text: Descarga en Itch

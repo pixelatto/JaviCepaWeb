@@ -4,7 +4,7 @@ title: Apocalypse Tycoon
 date: 2018-04-21
 description: RTS Apocalíptico
 img: assets/img/cover/apocalypsetycoon.jpg
-tags: [Jams]
+tags: [Juegos]
 words: 4 minutos
 status: published
 action-text: Descarga en LudumDare

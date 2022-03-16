@@ -4,7 +4,7 @@ title: Diseño gráfico
 date: 2018-06-13
 description: En ocasiones me peleo con Illustrator
 img: assets/img/cover/graphicdesign.png
-tags: [Cosas]
+tags: [Diseño]
 words: 2 minutos
 status: published
 ---

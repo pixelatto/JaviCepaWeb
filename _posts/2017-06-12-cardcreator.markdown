@@ -5,7 +5,7 @@ date: 2017-06-12
 description: Herramienta para crear juegos de cartas
 img: assets/img/cover/cardcreator.png
 video: liMw3yfeTdo
-tags: [Postmortems]
+tags: [Proyectos]
 words: 2 minutos
 status: published
 action-text: Card Creator en Steam

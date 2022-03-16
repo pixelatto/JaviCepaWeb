@@ -5,7 +5,7 @@ date: 2017-12-18
 description: Un juego sobre decisiones de peso
 img: assets/img/cover/lonkgreedyadventure.png
 embed: assets/embed/lonksadventure/index.html
-tags: [Jams]
+tags: [Juegos]
 words: 4 minutos
 status: published
 action-text: Descarga en LudumDare

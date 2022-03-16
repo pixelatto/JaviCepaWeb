@@ -4,7 +4,7 @@ title: MálagaJam
 date: 2015-01-25
 description: Asociación malagueña de desarrolladores de videojuegos
 img: assets/img/cover/malagajam2.jpg
-tags: []
+tags: [Proyectos]
 action-text: Web de MalagaJam
 action-link: http://malagajam.com
 status: published

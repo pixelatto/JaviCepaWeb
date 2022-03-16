@@ -5,7 +5,7 @@ date: 2017-04-28
 description: Esta isla no es lo demasiado grande para los 4 
 img: assets/img/cover/commandantconquer.jpg
 video: oLG4MtPQ-tY
-tags: [Jams]
+tags: [Juegos]
 words: 3 minutos
 status: published
 action-text: Descarga en LudumDare
