@@ -3,7 +3,7 @@ layout: post
 title: Orbtale
 date: 2021-11-23
 description: 
-img: assets/img/cover/cover.png
+img: assets/img/cover/orbtale.png
 video: uu5suVnXRic
 tags: [Postmortems]
 action-text: Kickstarter
