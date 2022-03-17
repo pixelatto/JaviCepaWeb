@@ -26,9 +26,6 @@ El proyecto fue muy útil para centrarse en el rediseño estético del universo 
 ![]({{ "/assets/img/content/orbtale/printprotos.jpg" | absolute_url }})
 <p class="image-caption">Primeros prototipos de imprenta</p>
 
-![]({{ "/assets/img/content/orbtale/protocards.jpg" | absolute_url }})
-<p class="image-caption">Primeros prototipos de imprenta</p>
-
 Anunciamos el proyecto con una campaña en Kickstarter que funcionó muy bien y ha sido un proyecto muy divertido y original en el que trabajar, 100% alineado con el ADN de Pixelatto ;)
 
 <div class="video-container">
@@ -37,7 +34,7 @@ Anunciamos el proyecto con una campaña en Kickstarter que funcionó muy bien y 
 <p class="image-caption">Sesiones de testeo del juego</p>
 
 ![]({{ "/assets/img/content/orbtale/orbs.jpg" | absolute_url }})
-<p class="image-caption">En algún lugar de Málaga, los auténticos orbes listos para cumplir nuevos deseos</p>
+<p class="image-caption">En algún lugar de Málaga, los auténticos orbes están listos para cumplir nuevos deseos</p>
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
