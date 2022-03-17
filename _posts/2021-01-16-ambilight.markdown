@@ -16,7 +16,7 @@ Lo malo de este sistema es que está patentado por Phillips y mi TV era una Sams
 
 Así que tocaba subirse las mangas de la camisa...
 
-##Preparación
+## Preparación
 
 Tras un poco de investigación, llegué a que necesitaba lo siguiente:
 
@@ -26,7 +26,7 @@ Tras un poco de investigación, llegué a que necesitaba lo siguiente:
 - Procesador de imagen / Raspberry Pi 4b + Hyperbian
 - Fuente de alimentación para la tira / Calculé que necesitaba unos 50W (5V/10A) y compré [una de esa potencia](https://www.amazon.es/gp/product/B07YVBHH6K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-##Mark 1
+## Mark 1
 
 El objetivo del prototipo inicial era conseguir ensamblar el microcontrolador de la tira con el software WLED para mostrar patrones pre-configurados en la tira led. Básicamente, poder controlar los colores de la tira.
 
@@ -54,7 +54,7 @@ Este paso me dió un poco más de guerra, pero sobre todo trasteando con los set
 </div>
 <p class="image-caption">¡Todo funcionando! Cutre, pero funcionando...</p>
 
-##Mark 2
+## Mark 2
 
 ¡Pues ya estaría! Bueno no... Funcionar funcionaba todo, pero estaba bastante feo. Tocaba iterar el prototipo.
 
@@ -67,7 +67,7 @@ Aquí todavía no había trabajo de soldadura, sino un protoboard azul pequeñit
 
 Con este prototipo ya tenía una idea aproximada de qué tamaño necesitaría para la versión final. También me sirvió para hacer varias pruebas con distintas capacidades de condensadores, que actúan como filtro de las señal que le llega a la tira.
 
-##Mark 3
+## Mark 3
 El objetivo del tercer y último prototipo era dejar el controlador lo más miniaturizado y decente posible, con una buena encapsulación. Debía ser también fácilmente desmontable y re-montable en caso de que tuviera que hacer modificaciones posteriores.
 
 Esta vez ya sí con el soldador en mano, recorté un trocito de PCB al mínimo de tamaño que necesitaba e hice las conexiones básicas sobre la misma con un poco de cariño y estaño.
@@ -83,7 +83,7 @@ Con un taladro y un torno manual, le hice unos agujeros a medida a una cajita qu
 ![]({{ "/assets/img/content/ambilight/mark3_inside.jpg" | absolute_url }})
 <p class="image-caption">Todo encapsulado y mucho más bonito :)</p>
 
-##Instalación final
+## Instalación final
 
 Con el microcontrolador listo y ensayado, todavía faltaban algunos ajustes.
 
