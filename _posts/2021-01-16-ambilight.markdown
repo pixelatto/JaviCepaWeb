@@ -34,7 +34,7 @@ El objetivo del prototipo inicial era conseguir ensamblar el microcontrolador de
 <p class="image-caption">Preparaciones iniciales</p>
 
 ![]({{ "/assets/img/content/ambilight/mark1_detail.jpg" | absolute_url }})
-<p class="image-caption">Detalle del ensablaje del Mark 0</p>
+<p class="image-caption">Detalle del ensablaje del Mark 1</p>
 
 Es una maravilla que haya una comunidad de entusiastas detrás de cada proyecto que puedas imaginar. Hacer un montaje inicial sobre un protoboard y configurar WLED fue súper fácil. En cuestión de sólo unas pocas horas, ya podía enviar cualquier patrón de color a la tira desde mi móvil.
 
