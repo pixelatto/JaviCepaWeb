@@ -3,7 +3,7 @@ layout: post
 title: Ambilight Custom
 date: 2021-01-16
 description: Iluminación dinámica del perímetro de la TV
-img: assets/img/cover/ambilight.png
+img: assets/img/cover/ambilight.jpg
 tags: [DIY]
 status: published
 ---
