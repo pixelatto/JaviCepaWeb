@@ -3,7 +3,7 @@ layout: post
 title: Orbtale
 date: 2021-11-23
 description: El juego de mesa de Reventure
-img: assets/img/cover/orbtale.png
+img: assets/img/cover/orbtale.jpg
 video: uu5suVnXRic
 tags: [Proyectos, Juegos]
 action-text: Kickstarter
@@ -11,19 +11,33 @@ action-link: https://orbtale.com/
 status: published
 ---
 
-Cuando pasó todo el huracán de Reventure, una de mis preocupaciones era "qué viene ahora".
+Cuando pasó todo el huracán de Reventure, una de mis preocupaciones era "qué viene ahora". No quería hacer un "Reventure 2" sin más, eso era muy predecible y aburrido. Tampoco quería repetir los gráficos megapixelados, eso había sido una obligación por presupuesto más que decisión artística. Siempre había querido diseñar mi propio juego de mesa y además tenía una aplicación maravillosa para hacerlo (Card Creator).
 
-No quería hacer un "Reventure 2" sin más, eso era muy predecible y aburrido.
-
-Tampoco quería repetir los gráficos megapixelados, eso había sido una obligación por presupuesto más que decisión artística.
-
-Siempre había querido diseñar mi propio juego de mesa y además tenía una aplicación maravillosa para hacerlo (Card Creator).
+![]({{ "/assets/img/content/orbtale/herodesign.jpg" | absolute_url }})
+<p class="image-caption">Algunas de las propuestas de rediseño del héroe</p>
 
 Todos estos ingredientes agitados en mi cabeza durante meses resultaron en lo que a día de hoy es Reventure: Orbtale.
 
+![]({{ "/assets/img/content/orbtale/firstprotos.jpg" | absolute_url }})
+<p class="image-caption">Primeros prototipos en papel</p>
+
 El proyecto fue muy útil para centrarse en el rediseño estético del universo de Reventure sin tener que preocuparnos del código, música y demás complejidades involucradas en el desarrollo de un videojuego. La parte mala es que descubrimos las otras muchas que conlleva enfrentarse a un producto físico, a saber: financiación, fabricación, distribución, playtesting...
 
+![]({{ "/assets/img/content/orbtale/printprotos.jpg" | absolute_url }})
+<p class="image-caption">Primeros prototipos de imprenta</p>
+
+![]({{ "/assets/img/content/orbtale/protocards.jpg" | absolute_url }})
+<p class="image-caption">Primeros prototipos de imprenta</p>
+
 Anunciamos el proyecto con una campaña en Kickstarter que funcionó muy bien y ha sido un proyecto muy divertido y original en el que trabajar, 100% alineado con el ADN de Pixelatto ;)
+
+<div class="video-container">
+  <iframe style="width: 100%;" src="https://www.youtube.com/embed/0YQFNjRo2nw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+<p class="image-caption">Sesiones de testeo del juego</p>
+
+![]({{ "/assets/img/content/orbtale/orbs.jpg" | absolute_url }})
+<p class="image-caption">En algún lugar de Málaga, los auténticos orbes listos para cumplir nuevos deseos</p>
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
