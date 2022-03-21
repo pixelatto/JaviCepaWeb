@@ -3,7 +3,7 @@ layout: post
 title: Consolitta
 date: 2021-03-08
 description: Mucho conocimiento en un espacio muy pequeñito
-img: assets/img/cover/cover.png
+img: assets/img/cover/consolitta.jpg
 tags: [DIY]
 status: published
 ---
