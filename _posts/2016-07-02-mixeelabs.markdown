@@ -2,7 +2,7 @@
 layout: post
 title: Mixee Labs
 date: 2016-07-02
-description: 
+description: Laboratorio de criaturas híbridas
 img: assets/img/cover/mixeelabs.jpg
 video: ejIKTm7GKWg
 tags: [Proyectos]

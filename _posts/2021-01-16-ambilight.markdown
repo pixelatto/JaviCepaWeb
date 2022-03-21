@@ -92,7 +92,7 @@ En primer lugar, la tira tiene una flexibilidad limitada, así que no puede dobl
 ![]({{ "/assets/img/content/ambilight/mark3_corners.jpg" | absolute_url }})
 <p class="image-caption">Limando aristas...</p>
 
-A partir de aquí el resto fue configurar la Raspberry con Hyperbian (una imagen de OS corriendo Hyperbian de manera exclusiva) y repetir las pruebas de las versiones anteriores.
+A partir de aquí el resto fue configurar la Raspberry con Hyperbian (una imagen de OS corriendo Hyperion de manera exclusiva) y repetir las pruebas de las versiones anteriores.
 
 A continuación algunos vídeos del resultado final:
 
