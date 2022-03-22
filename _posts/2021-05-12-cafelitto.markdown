@@ -2,7 +2,7 @@
 layout: post
 title: Cafelitto
 date: 2021-05-12
-description: Oficina virtual a medida
+description: Cómo entrar a una oficina virtual con el culo
 img: assets/img/cover/cover.png
 tags: [DIY]
 ---
