@@ -21,7 +21,7 @@ Cafelitto es una aplicación que añade una UI en la parte izquierda de tu escri
 Esto además ayudaba a respetar el derecho a desconexión de cada miembro, no mandando mensajes a nadie que no estuvierra dentro de la oficina virtual.
 
 ![]({{ "/assets/img/content/cafelitto/ui_folded.jpg" | absolute_url }})
-<p class="image-caption">La UI se hace más compacta e incluso invisible si tu cursor no está cerca, así no molesta nunca.</p>
+<p class="image-caption">La UI se hace más compacta e incluso invisible si tu cursor no está cerca, para no resultar molesta.</p>
 
 Todo esto iba montado sobre la API de Holded, la plataforma que usamos para el registro horario. Personalmente, me gusta  más la gestión de las horas simplemente confiando en los miembros del equipo, pero ya que nos obligaron por ley a ponerlo hace unos años no está de más poderle sacar valor de verdad a este sistema ;)
 
@@ -35,26 +35,26 @@ Soy un desastre para todo lo que sea sistemático o repetitivo y siempre se me o
 Aprovechando que tenía todo el sistema domótico de la casa configurado, me puse a trabajar en una pequeña automatización para registrar mis horas de trabajo. En primer lugar cogí uno de los sensores de apertura de puertas de Xiaomi que tenía por ahí tirados y lo desmonté.
 
 ![]({{ "/assets/img/content/cafelitto/doorsensor.jpg" | absolute_url }})
-<p class="image-caption">Funcionan a pilas y duran un montón de meses</p>
+<p class="image-caption">Antes: el sensor de Xiaomi desmontado en 4 partes</p>
 
 Estos sensores tienen dos partes, una es simplemente un iman dentro de un trozo de plástico bonito, la otra es una pequeña PCB con un interruptor de campo magnético, la pila y el emisor de señales por protocolo Zigbee que conecta con el hub domótico.
 
 ![]({{ "/assets/img/content/cafelitto/magneticsensor.jpg" | absolute_url }})
-<p class="image-caption">Básicamente, si hay un imán cerca permite el paso de una señal.</p>
+<p class="image-caption">Sensor magnético: si hay un imán cerca permite el paso de una señal</p>
 
 ![]({{ "/assets/img/content/cafelitto/pressuresensor.jpg" | absolute_url }})
-<p class="image-caption">Pero yo lo que quería es detectar el peso de un culo, así que lo cambié por esto.</p>
+<p class="image-caption">Sensor de peso: lo mismo, pero cuando aplicas una fuerza física sobre él</p>
 
 Secorte el sensor de campo magnético y soldé un par de cables en su lugar para poder poner el sensor que yo quisiera en su lugar. También le hice un pequeño agujerito a la caja para poder sacar los cables.
 
 ![]({{ "/assets/img/content/cafelitto/doorsensormod.jpg" | absolute_url }})
-<p class="image-caption">El sensor de Xiaomi modificado para mis malvados planes</p>
+<p class="image-caption">Después: el mismo sensor de Xiaomi tras mi mod</p>
 
 ![]({{ "/assets/img/content/cafelitto/sensorcapsule.jpg" | absolute_url }})
 <p class="image-caption">El mismo sensor, ya cerrado en su capsulita</p>
 
 ![]({{ "/assets/img/content/cafelitto/sensorpresetup.jpg" | absolute_url }})
-<p class="image-caption">Las dos partes del sensor, listas para ser instaladas en la silla</p>
+<p class="image-caption">Las dos partes, listas para ser instaladas en la silla</p>
 
 Con el sensor ya listo y funcionando, todo lo que faltaba es instalarlo en la silla.
 
