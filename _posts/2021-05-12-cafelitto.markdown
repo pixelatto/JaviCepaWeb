@@ -2,9 +2,9 @@
 layout: post
 title: Cafelitto
 date: 2021-05-12
-description: Cómo entrar a una oficina virtual con el culo
+description: Oficinas virtuales, controles horarios y culos
 img: assets/img/cover/cafelitto.jpg
-tags: [DIY]
+tags: [DIY, Proyectos]
 status: published
 ---
 
