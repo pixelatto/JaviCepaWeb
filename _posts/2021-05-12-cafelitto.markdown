@@ -12,13 +12,13 @@ Durante la pandemia tuvimos que pasar Pixelatto a modo 100% remoto. Aunque tenem
 
 Me puse a darle vueltas a alguna forma de recuperar un poco de esa "sensación de estar acompañado" y se me ocurrió desarrollar una pequeña aplicación a la que bauticé como "Cafelitto" en honor al contacto que se crea en las pequeñas pausas para tomar café.
 
-Cafelitto es una aplicación que añade una UI en la parte izquierda de tu escritorio en la cual puedes ver quién está en la oficina y quien no. Tiene controles básicos para poder hacer check-in y check-out, y cada ve que alguien del equipo entra o sale de la oficina virtual muestra un pequeño mensaje predefinido del estilo de "Buenos días!"/"Me marcho un ratito"/"¡He terminado por hoy!", esas pequeñas frases que normalmente dice la gente en la oficina y que contribuyen un montón a crear ese "ambiente".
+Cafelitto es una aplicación que añade una UI en la parte izquierda de tu escritorio en la cual puedes ver quién está en la oficina y quien no. Tiene controles básicos para poder hacer check-in y check-out, y cada vez que alguien del equipo entra o sale de la oficina virtual muestra un pequeño mensaje predefinido del estilo de "Buenos días!"/"Me marcho un ratito"/"¡He terminado por hoy!", esas pequeñas frases que normalmente dice la gente en la oficina y que contribuyen un montón a crear ese "ambiente".
 
 ![]({{ "/assets/img/content/cafelitto/ui_leftpanel.jpg" | absolute_url }})
 <p class="image-caption">Fali trabajando, Alberto y yo en una pausa/descanso. El resto ya salieron de la oficina virtual.</p>
 
 
-Esto además ayudaba a respetar el derecho a desconexión de cada miembro, no mandando mensajes a nadie que no estuvierra dentro de la oficina virtual.
+Esto además ayudaba a respetar el derecho a desconexión de cada miembro, no mandando mensajes a nadie que no estuviera dentro de la oficina virtual.
 
 ![]({{ "/assets/img/content/cafelitto/ui_folded.jpg" | absolute_url }})
 <p class="image-caption">La UI se hace más compacta e incluso invisible si tu cursor no está cerca, para no resultar molesta.</p>
