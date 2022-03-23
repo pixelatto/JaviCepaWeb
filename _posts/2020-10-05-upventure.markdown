@@ -9,9 +9,12 @@ tags: [Juegos]
 action-text: Jugar en Itch.io
 action-link: https://pixelatto.itch.io/upventure
 status: published
+topbutton: hidden
 ---
 
-Un pequeño spinoff de Reventure que hice para la Ludum Dare #47.
+Un pequeño spinoff de Reventure que hice para la Ludum Dare #47. Tiene cositas interesantes como un shader de deformación de perspectiva, falsas 3D e incluso un jefe final. Hecho en 48 horas :)
+
+
 
 
 <!-- Sample image embed

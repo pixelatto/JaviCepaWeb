@@ -6,9 +6,10 @@ description: Un universo fantástico y un juego de rol
 img: assets/img/cover/quarand.jpg
 tags: [Juegos]
 words: 2 minutos
-status: published
 action-text: Wiki en Notion
 action-link: https://www.notion.so/pixelatto/Universo-Quarand-de797974baca4b06bb0a4c495079d335
+topbutton: hidden
+status: published
 ---
 
 Quarand es un juego de rol de mesa que empecé a diseñar cuando tenía 15 años y he llevado siempre en paralelo como un side project.

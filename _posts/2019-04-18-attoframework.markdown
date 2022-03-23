@@ -6,9 +6,10 @@ description: Una arquitectura base para proyectos en Unity
 img: assets/img/cover/atto.jpg
 tags: [Proyectos]
 words: 1 minuto
-status: published
 action-text: Más info en GitHub
 action-link: https://github.com/pixelatto/atto
+header: hidden
+status: published
 ---
 
 Desde hace un tiempo en Pixelatto venimos trabajando con una arquitectura de contenedor de servicios que nos proporciona un buen balance entre velocidad de uso y mantenibilidad.

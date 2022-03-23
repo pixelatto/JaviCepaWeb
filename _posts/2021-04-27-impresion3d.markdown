@@ -5,6 +5,7 @@ date: 2021-04-27
 description: Imprimiendo cositas con la Monoprice Voxel
 img: assets/img/cover/3dprint.jpg
 tags: [DIY]
+header: hidden
 status: published
 ---
 

@@ -6,6 +6,7 @@ description: Oficinas virtuales, controles horarios y culos
 img: assets/img/cover/cafelitto.jpg
 tags: [DIY, Proyectos]
 status: published
+header: hidden
 ---
 
 Durante la pandemia tuvimos que pasar Pixelatto a modo 100% remoto. Aunque tenemos mucha experiencia trabajando así, se perdió un poco de la magia y buen rollo que teníamos en la oficina a diario.

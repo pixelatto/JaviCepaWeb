@@ -6,6 +6,7 @@ description: Experimentos para comer
 img: assets/img/cover/cocinitta.jpg
 tags: [DIY]
 status: published
+header: hidden
 ---
 
 Como en el blog pongo todo tipo de cosas creativas y cocinar también lo considero... ahí van algunas fotos de cositas que hago y me gustan mucho.

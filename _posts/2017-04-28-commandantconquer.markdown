@@ -2,7 +2,7 @@
 layout: post
 title: Command Ant Conquer
 date: 2017-04-28
-description: Esta isla no es lo demasiado grande para los 4 
+description: Esta isla no es suficiente grande para nosotros cuatro
 img: assets/img/cover/commandantconquer.jpg
 video: oLG4MtPQ-tY
 tags: [Juegos]
