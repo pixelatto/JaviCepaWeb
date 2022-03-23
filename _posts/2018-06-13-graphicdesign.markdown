@@ -2,10 +2,11 @@
 layout: post
 title: Diseño gráfico
 date: 2018-06-13
-description: En ocasiones me peleo con Illustrator
+description: Batallitas usando Illustrator
 img: assets/img/cover/graphicdesign.png
 tags: [Diseño]
 words: 2 minutos
+header: hidden
 status: published
 ---
 
