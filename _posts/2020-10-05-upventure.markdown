@@ -1,11 +1,17 @@
 ﻿---
 layout: post
-title: Oficinitta
-date: 2021-04-24
-description: 
-img: assets/img/cover/cover.png
-tags: [Otros]
+title: Upventure
+date: 2020-10-05
+description: El juego de los 100 ¿Escalones?
+img: assets/img/cover/upventure.png
+video: mmvcLEbdegA
+tags: [Juegos]
+action-text: Jugar en Itch.io
+action-link: https://pixelatto.itch.io/upventure
+status: published
 ---
+
+Un pequeño spinoff de Reventure que hice para la Ludum Dare #47.
 
 
 <!-- Sample image embed

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Minimine / Deepventure
+title: Minimine / Deeptopia
 date: 2017-01-16
 description: Poquitos píxeles y mucho oro
 img: assets/img/cover/minimine.jpg
