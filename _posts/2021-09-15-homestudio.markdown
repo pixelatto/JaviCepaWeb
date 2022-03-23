@@ -6,6 +6,7 @@ description: Mi pequeña cueva para hacer música
 img: assets/img/cover/studio.jpg
 tags: [Música]
 status: published
+header: hidden
 ---
 
 Algunas fotos de mi home estudio, donde hago experimentos musicales y de otras cosas creativas.
