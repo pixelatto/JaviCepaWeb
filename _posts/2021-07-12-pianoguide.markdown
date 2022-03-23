@@ -3,7 +3,7 @@ layout: post
 title: Piano Guide
 date: 2021-07-12
 description: Una forma distinta de practicar con el piano
-img: assets/img/cover/pianoguide.png
+img: assets/img/cover/pianoguide.jpg
 tags: [Música]
 status: published
 ---
