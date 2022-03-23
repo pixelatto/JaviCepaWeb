@@ -4,7 +4,7 @@ layout: main
 {% if page.status=="published" %}
 <article class="article-page">
 	<div class="page-content">
-		{% if page.header=="hidden" %}
+		{% if page.header!="hidden" %}
 			<div class="game" {% if page.embed %} style="cursor: pointer;" {% endif %}>
 				{% if page.video %}
 					<div class="video-container" style="background: url({{ page.img | relative_url }}); background-position: center; background-size: cover;">
@@ -46,7 +46,7 @@ layout: main
 				{% assign year = page.date | date: "%Y" %}
 				<span class="page-date">{{ day }} de {{ month }}, {{ year }}</span>
 			</header>
-			{% if page.action-link and page.action-text %}
+			{% if page.action-link and page.action-text and page.topbutton!="hidden" %}
 			<a class="push_button blue" href="{{ page.action-link }}" target="_blank">{{ page.action-text }}</a>
 			{% endif %}
 			{{page.content | markdownify}}
