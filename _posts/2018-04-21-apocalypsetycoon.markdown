@@ -21,12 +21,12 @@ El tema en cuestión era "Combinar 2 géneros incompatibles", así que le añad�
 
 El sábado por la mañana me puse manos a la obra con un generador procedural de personajes humanos pixelados a 6x6 de tamaño.
 
-![]({{ "/assets/img/content/apocalypseguys.png" | absolute_url }})
+![]({{ "/assets/img/content/apocalypse/guys.png" | absolute_url }})
 <p class="image-caption">Empiezo a asumir que los sprites de 6x6 son la marca de la casa</p>
 
 Era un script muy sencillo, sumado a un puñado de píxeles que por si solos no tienen mucho sentido. La idea de generar esta variedad en los personajes era crear un claro contraste entre la diversidad y vida de los humanos y la homogeneidad y no-vida de los zombies.
 
-![]({{ "/assets/img/content/apocalypsezombies.png" | absolute_url }})
+![]({{ "/assets/img/content/apocalypse/zombies.png" | absolute_url }})
 <p class="image-caption">Vivos contra muertos</p>
 
 A la par hice el sistema de movimiento, El script de billboard para que mirasen a la cámara y alguna cosa más.
@@ -71,7 +71,7 @@ No tenía tiempo para ponerme al piano a grabar pistas y hacer una música más 
 
 Después me puse a ajustar los LUTs de día y noche en Photoshop. Quería que el LUT nocturno mostrase a los zombies como una silueta negra y resaltase a tope el color rojo de los ojos en la oscuridad. En algún momento del finde tuve este efecto clavado, pero al ir haciendo correcciones de luz se acabó perdiendo y no lo pude rescatar a tiempo.
 
-![]({{ "/assets/img/content/apocalypsenight.png" | absolute_url }})
+![]({{ "/assets/img/content/apocalypse/night.png" | absolute_url }})
 <p class="image-caption">Mucho ensayo y error con esto hasta dar con la estética que quería</p>
 
 El juego no se explicaba por ningún lado, así que añadí un sistema de carteles con explicaciones dentro del gameplay. Ayuda a poner al jugador en acción mucho más rápido ya que elimina el típico muro de instrucciones al inicio. Eso, sumado al control sin botones (sólo dirección) que reduce las opciones, da pie a un muy buen boarding del jugador.

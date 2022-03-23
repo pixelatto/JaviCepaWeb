@@ -22,7 +22,7 @@ Las calles serían idealmente "como de chicle", curvandose suavemente hacia arri
 
 <blockquote>Los personajes iban a ser cilindros en un principio, pero probé con cuadrados y daban un movimiento mucho más divertido e interesante</blockquote>
 
-![]({{ "/assets/img/content/pixl.png" | absolute_url }})
+![]({{ "/assets/img/content/_others/pixl.png" | absolute_url }})
 <p class="image-caption">Añadí los textos de fondo con tonterías por meter algo puntuable en la categoría humor y recompensar el progreso</p>
 
 La perspectiva isométrica trajo un problema importante, era muy difícil saber que carril estaba al lado del actual. Añadí una guía visual en el marcador como referencia, aunque era más un parche que una solución real y nadie se fijaba.

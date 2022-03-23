@@ -17,7 +17,7 @@ El caso es que, cansado de que me robaran todos los meses (los de Securitas) dec
 
 Mi punto de partida fue un starter kit de Xiaomi Mi Home, que acaba de llegar a europa y tiene un precio bastante competitivo. La instalación fue fácil, pero estaba muy lejos de lo que yo quería, además de que las integraciones con terceros funcionaban fatal. También traía un gateway. Ahora hablo de los gateway.
 
-![]({{ "/assets/img/content/xiaomimi.png" | absolute_url }})
+![]({{ "/assets/img/content/domotics/xiaomimi.png" | absolute_url }})
 <p class="image-caption">Incluía el gateway, 2 sensores de presencia, 2 sensores de apertura, 1 botón por unos 50€</p>
 
 El panorama actual de la domótica de consumo es el siguiente: un fabricante tiene las bombillas que quieres, otro tiene los sensores, otro los actuadores... hay de todo! Pero eso sí: ninguno tiene todas las cosas y cada uno tiene un gateway propietario y completamente opaco. Quizá el que más se acerque a un ecosistema completo es Samsung Smartthings, que para el que quiera cambiar todas las bombillas y sensores de su casa a unos 60€/unidad está bien oye.
@@ -26,7 +26,7 @@ Tenía desde hace tiempo algunas bombillas Ikea Tradfri (con su propio gateway �
 
 Investigando dí con la solución que buscaba: ambos sistemas usaban el protocolo Zigbee para comunicarse con los aparatos, así que aún había esperanza.
 
-![]({{ "/assets/img/content/cc2531.jpg" | absolute_url }})
+![]({{ "/assets/img/content/domotics/cc2531.jpg" | absolute_url }})
 <p class="image-caption">Spoiler: necesitaba este cacharrito</p>
 
 Después de empaparme de bastante documentación, me compré y flasheé un sniffer Zigbee CC2531 y lo conecté a una raspberry que tenía aparcada por casa. Tras configurarla, instalé una cosita llamada Zigbee2MQTT que permite convertir los mensajes Zigbee de los aparatos al mucho más usable protocolo MQTT que se suele usar en cosas de IoT.
@@ -37,7 +37,7 @@ Rearmado con este aparatito, empecé a sincronizar dispositivos y... ¡Todo iba 
 
 Una vez que todos los cacharros estaban conectados, crear automatizaciones fue un paseo con Node-Red, una aplicación open source de IBM que permite crear automatizaciones mediante flujos visuales de manera muy cómoda.
 
-![]({{ "/assets/img/content/nodered.jpg" | absolute_url }})
+![]({{ "/assets/img/content/domotics/nodered.jpg" | absolute_url }})
 <p class="image-caption">Esta es la pinta que tiene un flujo de Node-Red una vez configurado</p>
 
 Algunos ejemplos de automatismos que tengo funcionando a día de hoy:

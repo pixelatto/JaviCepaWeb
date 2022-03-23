@@ -20,5 +20,5 @@ El hecho de que no se pudiera jugar con estas unidades les otorgaba automáticam
 
 Le tenía un cariño especial a estas unidades, así que en una de las ediciones de las lan partys de JuventudCantabria.net decidí participar en la categoría 3D una interpretación un poco más futurista del Apache NOD.
 
-![]({{ "/assets/img/content/apache.jpg" | absolute_url }})
+![]({{ "/assets/img/content/_others/apache.jpg" | absolute_url }})
 <p class="image-caption">El modelo final</p>

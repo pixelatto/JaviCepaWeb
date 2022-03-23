@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Guía para nuevos GameDevs
+title: Cómo sobrevivir al desarrollo de videojuegos
 date: 2017-05-12
-description: Consejos prácticos para evitar coscorrones al crear videojuegos
+description: Consejos para creadores de videojuegos
 img: assets/img/cover/guiagamedev.png
 tags: [Consejos]
 words: 5 minutos
@@ -143,7 +143,7 @@ Ya está muy dicho eso de que se aprende de los errores, pero creo que el escrib
 
 Como este tipo de individuos no siempre están a mano, puedes usar este cómodo diagrama de flujo que te va a decir más o menos lo que cualquier gamedev maduro te diría.
 
-![]({{ "/assets/img/content/guiagamedev.png" | absolute_url }})
+![]({{ "/assets/img/content/_others/guiagamedev.png" | absolute_url }})
 <p class="image-caption">Si sirve para evitar un sólo Timothy, habrá merecido la pena</p>
 
 Por último, decir que todo esto no son los consejos de un resabidillo (que también), sino los de varios resabidillos y charlas a lo largo de los años. Ese tipo de cosas que a medida que se repiten ves que "es que son así".

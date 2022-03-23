@@ -23,8 +23,8 @@ Le tengo un especial cariño porque resume visualmente mi forma de trabajar:
 
 Como curiosidad, el arquero está basado en una de las miniaturas de mi ejército de Warhammer de Elfos Silvanos.
 
-![]({{ "/assets/img/content/arqueroinicio.jpg" | absolute_url }})
+![]({{ "/assets/img/content/archer/arqueroinicio.jpg" | absolute_url }})
 <p class="image-caption">Aquí tienes la versión inicial, para que te persiga en tus pesadillas</p>
 
-![]({{ "/assets/img/content/arquerofin.jpg" | absolute_url }})
+![]({{ "/assets/img/content/archer/arquerofin.jpg" | absolute_url }})
 <p class="image-caption">Y aquí cómo quedó al final</p>

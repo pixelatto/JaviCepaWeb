@@ -24,7 +24,7 @@ Me decidí por hacer un pequeño arcade en el que encarnas a un jardinero que co
 
 También me ocupé de dejar el diseño cerrado en papel antes de empezar para ir a tiro hecho en las aproximadamente 12h que tenía para hacer el juego.
 
-![]({{ "/assets/img/content/rootsofevildesign.jpg" | absolute_url }})
+![]({{ "/assets/img/content/roots/rootsofevildesign.jpg" | absolute_url }})
 <p class="image-caption">Diseño express en un folio</p>
 
 En el diseño se consideraban varios tipos de plantas con distintos niveles de evolución. Tuve que recortar algunos niveles de evolución y descartar alguna planta para ajustar los tiempos.
@@ -33,7 +33,7 @@ En el diseño se consideraban varios tipos de plantas con distintos niveles de e
 
 El desarrollo fue bastante bien, y tuve tiempo para balancear la curva de dificultad. Era una curva que aceleraba muy sutilmente haciendo que para ganar hubiera que pasar un último minuto muy tenso.
 
-![]({{ "/assets/img/content/rootsoutofcontrol.png" | absolute_url }})
+![]({{ "/assets/img/content/roots/rootsoutofcontrol.png" | absolute_url }})
 <p class="image-caption">Es muy habitual tener que renunciar a uno de los lados durante la partida</p>
 
 Cuando estaba añadiendo el final y puse el fondo con el color de día, vi que era el mismo que el de las cizallas del personaje y se dejaban de ver. En lugar de cambiarlas el color para que se vieran, se me ocurrió una solución mejor: como en la animación sin cizallas parecía que el personaje aplaudía... ¡Le añadí un sonido de palmada!
