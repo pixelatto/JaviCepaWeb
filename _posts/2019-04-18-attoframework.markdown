@@ -8,7 +8,7 @@ tags: [Proyectos]
 words: 1 minuto
 action-text: Más info en GitHub
 action-link: https://github.com/pixelatto/atto
-header: hidden
+topbutton: hidden
 status: published
 ---
 

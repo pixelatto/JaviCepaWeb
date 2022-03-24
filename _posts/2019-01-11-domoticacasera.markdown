@@ -5,7 +5,7 @@ date: 2019-01-11
 description: Automatizaciones domésticas con Zigbee
 img: assets/img/cover/domotica.jpg
 tags: [DIY]
-words: 3 minutos
+header: hidden
 status: published
 ---
 

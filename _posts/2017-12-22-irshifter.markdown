@@ -6,9 +6,10 @@ description: Cómo hacer desaparecer mandos a distancia
 img: assets/img/cover/irshifter.jpg
 tags: [DIY]
 words: 2 minutos
-status: published
 action-text: Código fuente
 action-link: /assets/code/irshifter.txt
+header: hidden
+status: published
 ---
 
 Hace unas semanas me compré un flamante [equipo de audio 5.1](https://www.amazon.es/Logitech-Z906-altavoces-envolvente-inalámbrico/dp/B004PGM9KY) para la TV del salón. El equipo se oye genial, pero tiene la pega de añadir otro mando más a la mesa para controlar el volumen, cosa que antes hacía más cómodamente desde el mando de la TV.

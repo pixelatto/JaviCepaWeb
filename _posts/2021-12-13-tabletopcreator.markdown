@@ -9,6 +9,7 @@ tags: [Proyectos]
 status: published
 action-text: Comprar en Steam
 action-link: https://store.steampowered.com/app/861590/Tabletop_Creator/
+topbutton: hidden
 ---
 
 La mayoría de gente que conoce a Pixelatto es a través de Reventure, pero años antes de que existiera Card Creator fue el héroe en la sombra que mantuvo el estudio a flote.
