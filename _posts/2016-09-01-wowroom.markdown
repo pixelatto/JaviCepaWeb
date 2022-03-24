@@ -2,10 +2,38 @@
 layout: post
 title: IE WowRoom
 date: 2016-09-01
-description: 
+description: Software para una superpantalla
 img: assets/img/cover/wowroom.jpg
+video: AGEknY6FTLU
 tags: [Proyectos]
+status: published
 ---
+
+La WowRoom es una instalación del IE Business school que consta de 48 pantallas, agrupadas en 3 secciones de 4x4 dispuestas en un arco cuya carga gráfica gestionan 3 ordenadores independientes (uno para cada grupo de 16 pantallas).
+
+Me llamaron para desarrollar el software que tenía que gestionar el evento de presentación de esta monstruosidad, me sentí un poco como el Sr. Lobo de Pulp Fiction: tenía 10 días para desarrollar un software e integrar en el una cantidad de contenido absurdamente desproporcionado.
+
+Así que acepté.
+
+La tarea se podría resumir en hacer una especie de "Powerpoint en esteroides" que pudiera lanzar contenido arbitrario (imágenes, vídeos, animaciones y alguna experiencia interactiva) y sincronizado entre todas las pantallas y máquinas.
+
+Lo primero que hice fue crear un pipeline de despliegue de builds entre las 3 máquinas y trabajar en una mini aplicación que garantizaba que el desfase entre las imágenes nunca fuera mayor a 1 milisegundo.
+
+Luego cree un sistema de "escaleta digital" para organizar paso a paso cada cosa que pasaba en la presentación (eventos tipo "avanzar a la siguiente escena", "fade out de volumen", "pausa de 5 segundos") y luego empecé a hablar con todos los agentes involucrados para que quedase definido hasta el más mínimo detalle de lo que iba a pasar en esa presentación.
+
+Ah, y otro pequeño detalle: como todos los presentadores tenían agendas muy restringidas, no habría ensayo general, sino sólo ensayos parciales con cada uno de ellos.
+
+Me metí una paliza como en la vida, con jornadas de 14h por defecto, pero estaba muy motivado y seguro de que lo podía conseguir.
+
+Muchas reuniones, sudor y líneas de código después... ¡Estaba todo en su sitio y funcionando!
+
+Incluso me sobraron 2 días, hecho que el cliente aprovechó para pedirme una "pequeña" feature adicional: sincronizar el contenido con 50 tablets Nvidia Shield que tendrían en sus manos los asistentes.
+
+Como soy idiota, respondí que sí, que daba tiempo suficiente. Sólo tuve que eliminar tareas superflueas dormir, saltarme alguna comida y concentrarme al 999% para que el mismo día de la presentación, a sólo pocas horas del evento, ya estuviese todo "funcionando" sin apenas testeo.
+
+Durante el evento, saqué mi corazón de mi pecho y lo posé encima de la mesa para que no me molestara. Había puesto veintemil mecanismos de seguridad redundantes por si algo salía mal o había algún imprevisto entre los presentadores, pero por suerte todo salió a la perfección.
+
+Este fue seguramente el desafío más grande al que me he enfrentado profesionalmente, pero me alegra haber dicho que sí y haber dejado así de alto mi listón personal ^^
 
 
 <!-- Sample image embed
