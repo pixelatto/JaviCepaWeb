@@ -1,0 +1,18 @@
+---
+layout: post
+title: Materia
+date: 2018-11-10
+description: Gotitas de agua digital
+img: assets/img/cover/materia.png
+video: ow2nDxdL8nc
+tags: [Proyectos]
+status: published
+---
+
+Hay una filosofía recurrente en muchos de mis proyectos que llamo "plastilina digital": poner en manos de otras personas "juguetes" que sean divertidos de usar y sirvan para construir cosas.
+
+Se me ocurrió plasmar este concepto en un pequeño prototipo, con una especie de substancia que se pudiera usar para dibujar o lo que sea.
+
+La experiencia es algo parecido a dibujar con las gotitas de agua en un cristal después de un día de lluvia.
+
+En dispositivos móviles es especialmente satisfactorio manipularlo directamente con los dedos.

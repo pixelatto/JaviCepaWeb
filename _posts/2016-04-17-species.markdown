@@ -2,11 +2,18 @@
 layout: post
 title: Species
 date: 2016-04-17
-description: 
+description: El pez grande se come al pequeño
 img: assets/img/cover/species.jpg
 tags: [Juegos]
+action-text: Descarga en Itch
+action-link: https://pixelatto.itch.io/species
+topbutton: hidden
+status: published
 ---
 
+Otro estudio de generación procedural paramétrica. En este caso, un juego en el que controlas un pez que cada vez que se come a otro cambia de forma y tamaño.
+
+Estoy especialmente contento con cómo quedó la animación (procedural también), muy orgánica y bastante creible.
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
