@@ -2,11 +2,23 @@
 layout: post
 title: Jam Ritual
 date: 2016-01-27
-description: 
+description: Un juego de gestionar jams, hecho en una jam
 img: assets/img/cover/jamritual.jpg
+video: AMiUJZ5jMog
 tags: [Juegos]
+action-text: Descarga en Itch
+action-link: https://pixelatto.itch.io/jam-ritual
+topbutton: hidden
+status: published
 ---
 
+Mientras estaba en Mallorca participé en la Global Game Jam a la vez que mis amigos de MalagaJam organizaban el mismo evento en Málaga.
+
+Como un guiño a mis compis y como encajaba con el tema (Ritual) se me ocurrió hacer un juego sobre lo caótico que es organizar una jam.
+
+Formé equipo con Juanjo y con Sergi, dos compañeros de trabajo de allí y la verdad es que sacamos un montón de contenido en sólo 48h.
+
+Es la única jam en la que no hice pausa para dormir entre los dos días. Sabía que era una mala idea, pero no está de más comprobarlo en tus propias carnes para entender mejor los porqués :)
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})

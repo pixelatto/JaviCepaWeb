@@ -2,10 +2,22 @@
 layout: post
 title: Monstrocity
 date: 2015-07-23
-description: 
+description: Dos pies muy grandes y una ciudad que aplastar
 img: assets/img/cover/monstrocity.png
 tags: [Juegos]
+action-text: Descarga en Itch
+action-link: https://pixelatto.itch.io/monstrocity
+topbutton: hidden
+status: published
 ---
+
+En el juego que hice para la Ludum Dare #33 tomas el papel de un pequeño monstruo/alien/bicho con dos patas y un ojo que va pisoteando humanos por una ciudad.
+
+Tiene unos controles muy simples (izquierda, derecha, salto) y una dificultad muy moderada.
+
+En este juego me enfoqué en trabajar el "game feel" con muchas partículas, efectos de sonido dinámicos, variaciones progresivas del escenario.
+
+No sé que tipo de sustancia consumí aquel fin de semana, pero el último día decidí añadirle soporte multijugador online y un final bastante épico.
 
 
 <!-- Sample image embed

@@ -2,11 +2,16 @@
 layout: post
 title: Very Dungeon
 date: 2014-12-11
-description: 
+description: Mini roguelike con mazmorras procedurales
 img: assets/img/cover/verydungeon.jpg
 tags: [Juegos]
+action-text: Descarga en Itch
+action-link: https://pixelatto.itch.io/very-dungeon
+topbutton: hidden
+status: published
 ---
 
+Un pequeño juego de plataformas para la Ludum Dare #33 en el que vas descubriendo mazmorras procedurales y obteniendo items persistentes en cada run.
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})

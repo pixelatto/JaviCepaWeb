@@ -2,11 +2,22 @@
 layout: post
 title: Carrot Stories
 date: 2015-12-14
-description: 
+description: La historia de un par de conejitos voxelizados
 img: assets/img/cover/carrotstories.jpg
 tags: [Juegos]
+action-text: Descarga en Itch
+action-link: https://pixelatto.itch.io/carrot-stories
+topbutton: hidden
+status: published
 ---
 
+Para la Ludum Dare 34 se me ocurrió hacer una especie de juego-diorama con estética voxel sobre un par de conejos que intentan sobrevivir en una isla buscando comida, huyendo de depredadores.
+
+En esta ocasión puse mucho foco en la estética a través del ciclo de día/noche, la música adaptativa en función de la hora del día (por Dani Parejo) las pequeñas narraciones describiendo los eventos que van sucediendo para darle estética de cuento.
+
+Si sobreviven lo suficiente, los conejitos pueden incluso hacer "cosas de conejitos adultos"  y poner huevos de los que saldrán nuevos conejos.
+
+Sí, los conejos nacen de huevos. Ahora ya sabes una cosa más.
 
 <!-- Sample image embed
 ![]({{ "/assets/img/content/cardcreatorproto.png" | absolute_url }})
