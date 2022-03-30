@@ -22,7 +22,7 @@ En primer lugar, di con Synthesia. Esta aplicación te sirve para aprender a toc
 </div>
 <p class="image-caption">Práctica de mano derecha con Synthesia</p>
 
-Otra aplicación interesante fue Keysight, que muestra efectos de color y partículas sobre un teclado virtual en pantalla.
+Otra aplicación interesante fue Keysight, que muestra efectos de color y partículas sobre un teclado virtual en la pantalla.
 
 La verdad es que después de jugar un par de días con ello no volví a usar ninguna de las dos cosas, pero me parece lo bastante curioso para ganarse un post breve :)
 
