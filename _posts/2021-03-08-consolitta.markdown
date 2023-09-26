@@ -4,6 +4,7 @@ title: Consolitta
 date: 2021-03-08
 description: Mucho conocimiento en un espacio muy pequeñito
 img: assets/img/cover/consolitta.jpg
+video: Lq_HbRjhjxc
 tags: [DIY]
 status: published
 ---
