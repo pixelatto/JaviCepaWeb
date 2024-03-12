@@ -11,10 +11,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Javi Cepa # add your name
 author-img: javicepa.png # add your photo
-about-author: Creo cosas. Así, en general.
+about-author: Creador de cosas
 twitter: JaviCepa # add your Twitter handle
 linkedin: javiercepa # add your Linkedin handle
-email: javi@pixelatto.com # add your Email address
+email: info@pixelatto.com # add your Email address
 
 # Disqus
 discus-identifier: javicepa # add your discus identifier
