@@ -1,5 +1,5 @@
-title: JaviCepa.com
-description: Creo cosas. Así, en general.
+title: La Caosteca - Javi Cepa
+description: Creador de muchas cosas y algunas personas.
 
 permalink: ':title/'
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -9,11 +9,9 @@ site-twitter: #if your site has a twitter account, enter it here
 
 
 # Author Settings
-author: Javi Cepa # add your name
+author: La Caosteca # add your name
 author-img: javicepa.png # add your photo
-about-author: Creador de cosas
-twitter: JaviCepa # add your Twitter handle
-linkedin: javiercepa # add your Linkedin handle
+about-author: de Javi Cepa
 email: info@pixelatto.com # add your Email address
 
 # Disqus

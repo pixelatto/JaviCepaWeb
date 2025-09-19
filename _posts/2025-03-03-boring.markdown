@@ -1,0 +1,19 @@
+---
+layout: post
+title: Borıng.
+date: 2025-03-03
+description: El mejor peor juego de Steam.
+img: assets/img/cover/boring.jpg
+video: nB7sNR7OrcQ
+tags: [Juegos]
+action-text: Ver en Steam
+action-link: https://store.steampowered.com/app/3128950/Borng
+status: published
+topbutton: hidden
+---
+
+Un juego aburrido sobre hacer cosas aburridas. No intenta ser divertido.
+
+Ya estás aburrido, no pierdes nada.
+
+
