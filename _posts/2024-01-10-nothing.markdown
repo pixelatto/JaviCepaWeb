@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nothing & Something"
+title: "Nothing y Something"
 date: 2024-01-10
 description: Dos minijuegos hermanos: hacer nada o hacer algo.
 img: assets/img/cover/nothing.jpg
@@ -12,14 +12,13 @@ topbutton: hidden
 ---
 
 Nothing: si haces algo, pierdes el juego. Si no haces nada, pierdes el tiempo. Minimalismo puro.
-
 Something: sigue haciendo cosas para ganar más tiempo. Si te paras, pierdes. Un resumen de la vida moderna.
 
-Entre los dos suman más de 500k descargas. La gente todavía sabe apreciar la calidad...
+Entre los dos suman más de 500k descargas. La gente todavía sabe apreciar la calidad.
 
 En Steam:
 
-- Nothing: https://store.steampowered.com/app/2696480/Nothing/
-- Something: https://store.steampowered.com/app/2696520/Something/
+Nothing: https://store.steampowered.com/app/2696480/Nothing/
+Something: https://store.steampowered.com/app/2696520/Something/
 
 

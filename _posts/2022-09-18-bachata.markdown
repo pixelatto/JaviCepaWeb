@@ -4,8 +4,8 @@ title: Bachata
 date: 2022-09-18
 description: Evolución de mi baile 2022-2025
 img: assets/img/cover/Bachata.jpg
-video: bQVdAF_YhvQ
 tags: [Música]
+video: bQVdAF_YhvQ
 status: published
 ---
 
