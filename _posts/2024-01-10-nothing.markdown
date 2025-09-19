@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nothing & Something
+title: "Nothing & Something"
 date: 2024-01-10
 description: Dos minijuegos hermanos: hacer nada o hacer algo.
 img: assets/img/cover/nothing.jpg
