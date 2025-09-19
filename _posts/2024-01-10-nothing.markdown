@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Nothing y Something"
+title: "Nothing & Something"
 date: 2024-01-10
-description: Dos minijuegos hermanos: hacer nada o hacer algo.
+description: Dos polos opuestos
 img: assets/img/cover/nothing.jpg
 tags: [Juegos]
 action-text: Ver en Steam
 action-link: https://store.steampowered.com/app/2696520/Nothing/
 status: published
 topbutton: hidden
+permalink: /nothing/
 ---
 
 Nothing: si haces algo, pierdes el juego. Si no haces nada, pierdes el tiempo. Minimalismo puro.
