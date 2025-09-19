@@ -3,7 +3,7 @@ layout: post
 title: Borıng.
 date: 2025-03-03
 description: El mejor peor juego de Steam.
-img: assets/img/cover/boring.jpg
+img: assets/img/cover/Boring.jpg
 video: nB7sNR7OrcQ
 tags: [Juegos]
 action-text: Ver en Steam
