@@ -12,14 +12,10 @@ topbutton: hidden
 permalink: /nothing/
 ---
 
-Nothing: si haces algo, pierdes el juego. Si no haces nada, pierdes el tiempo. Minimalismo puro.
-Something: sigue haciendo cosas para ganar más tiempo. Si te paras, pierdes. Un resumen de la vida moderna.
+[Nothing](https://store.steampowered.com/app/2696480/Nothing/): si haces algo, pierdes el juego. Si no haces nada, pierdes el tiempo. Minimalismo puro.
 
-Entre los dos suman más de 500k descargas. La gente todavía sabe apreciar la calidad.
+[Something](https://store.steampowered.com/app/2696520/Something/): sigue haciendo cosas para ganar más tiempo. Si te paras, pierdes. Un resumen de la vida moderna.
 
-En Steam:
+Entre los dos suman más de 500k descargas. Eso son más jugadores que Reventure en Steam.
 
-Nothing: https://store.steampowered.com/app/2696480/Nothing/
-Something: https://store.steampowered.com/app/2696520/Something/
-
-
+No sé si es una buena o una mala noticia...
