@@ -5,7 +5,7 @@ date: 2001-01-01
 description: Experimentos comestibles
 img: assets/img/cover/cocinitta.jpg
 tags: [DIY]
-status: published
+status: hidden
 header: hidden
 ---
 
